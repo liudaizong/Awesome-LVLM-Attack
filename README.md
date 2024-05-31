@@ -110,6 +110,35 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * [Arxiv2024] https://arxiv.org/abs/2404.10335
 
 ## Jailbreak-Attack
+* **FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts** | [Github](https://github.com/ThuCCSLab/FigStep)
+  * Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang
+  * Tsinghua University, Shandong University, Carnegie Mellon University
+  * [Arxiv2023] https://arxiv.org/abs/2311.05608
+* **MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models** | [Github](https://github.com/isXinLiu/MM-SafetyBench)
+  * Xin Liu, Yichen Zhu, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
+  * Shanghai AI Laboratory, East China Normal University, Midea Group, University of Oxford
+  * [Arxiv2023] https://arxiv.org/abs/2311.17600
+* **Visual Adversarial Examples Jailbreak Aligned Large Language Models** | [Github](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models)
+  * Xiangyu Qi, Kaixuan Huang, Ashwinee Panda, Peter Henderson, Mengdi Wang, Prateek Mittal
+  * Princeton University, Stanford University
+  * [AAAI2024] https://arxiv.org/abs/2306.13213
+* **Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models** | 
+  * Erfan Shayegani, Yue Dong, Nael Abu-Ghazaleh
+  * University of California
+  * [ICLR2024] https://arxiv.org/abs/2307.14539
+* **Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast** | [Github](https://github.com/sail-sg/Agent-Smith)
+  * Xiangming Gu, Xiaosen Zheng, Tianyu Pang, Chao Du, Qian Liu, Ye Wang, Jing Jiang, Min Lin
+  * Sea AI Lab, National University of Singapore, Singapore Management University
+  * [ICML2024] https://arxiv.org/abs/2402.08567
+* **Jailbreaking Attack against Multimodal Large Language Model** | 
+  * Zhenxing Niu, Haodong Ren, Xinbo Gao, Gang Hua, Rong Jin
+  * Xidian University, Wormpex AI Research, Meta
+  * [Arxiv2024] https://arxiv.org/abs/2402.02309
+* **Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models** | [Github](https://github.com/AoiDragon/HADES)
+  * Yifan Li, Hangyu Guo, Kun Zhou, Wayne Xin Zhao, Ji-Rong Wen
+  * Renmin University of China, Beijing Key Laboratory of Big Data Management and Analysis Methods
+  * [Arxiv2024] https://arxiv.org/abs/2403.09792
+
 
 
 ## Prompt-Injection
