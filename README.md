@@ -138,6 +138,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Xiangming Gu, Xiaosen Zheng, Tianyu Pang, Chao Du, Qian Liu, Ye Wang, Jing Jiang, Min Lin
   * Sea AI Lab, National University of Singapore, Singapore Management University
   * [ICML2024] https://arxiv.org/abs/2402.08567
+* **Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks** | [Github](https://github.com/gpantaz/vl_jailbreak)
+  * Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia
+  * Heriot-Watt University
+  * [COLINGworkshop2024] https://arxiv.org/abs/2405.04403
 * **Jailbreaking Attack against Multimodal Large Language Model** | 
   * Zhenxing Niu, Haodong Ren, Xinbo Gao, Gang Hua, Rong Jin
   * Xidian University, Wormpex AI Research, Meta
@@ -166,12 +170,35 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Ruofan Wang, Xingjun Ma, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang
   * Fudan University, Shanghai Jiao Tong University, DataGrand Tech
   * [Arxiv2024] https://arxiv.org/abs/2405.17894
-* **Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks** | [Github](https://github.com/gpantaz/vl_jailbreak)
-  * Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia
-  * Heriot-Watt University
-  * [COLINGworkshop2024] https://arxiv.org/abs/2405.04403
 
 ## Prompt-Injection
-
+* **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
+  * Eugene Bagdasaryan, Tsung-Yin Hsieh, Ben Nassi, Vitaly Shmatikov
+  * Cornell Tech
+  * [Arxiv2023] https://arxiv.org/abs/2307.10490
+* **Can Language Models be Instructed to Protect Personal Information?** | 
+  * Yang Chen, Ethan Mendes, Sauvik Das, Wei Xu, Alan Ritter
+  * Georgia Institute of Technology, Carnegie Mellon University
+  * [Arxiv2023] https://arxiv.org/abs/2310.02224
+* **FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts** | [Github](https://github.com/ThuCCSLab/FigStep)
+  * Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang
+  * Tsinghua University, Shandong University, Carnegie Mellon University
+  * [Arxiv2023] https://arxiv.org/abs/2311.05608
+* **MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models** | [Github](https://github.com/isXinLiu/MM-SafetyBench)
+  * Xin Liu, Yichen Zhu, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
+  * Shanghai AI Laboratory, East China Normal University, Midea Group, University of Oxford
+  * [Arxiv2023] https://arxiv.org/abs/2311.17600
+* **MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance** | [Github](https://github.com/pipilurj/MLLM-protector)
+  * Renjie Pi, Tianyang Han, Yueqi Xie, Rui Pan, Qing Lian, Hanze Dong, Jipeng Zhang, Tong Zhang
+  * The Hong Kong University of Science and Technology, University of Illinois at Urbana-Champaign, The Hong Kong Polytechnic University
+  * [Arxiv2024] https://arxiv.org/abs/2401.02906
+* **Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks** | [Github](https://github.com/mqraitem/Self-Gen-Typo-Attack)
+  * Maan Qraitem, Nazia Tasnim, Piotr Teterwak, Kate Saenko, Bryan A. Plummer
+  * Boston University
+  * [Arxiv2024] https://arxiv.org/abs/2402.00626
+* **Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors** | 
+  * Jiachen Sun, Changsheng Wang, Jiongxiao Wang, Yiwei Zhang, Chaowei Xiao
+  * University of Michigan Ann arbor, University of Wisconsin Madison, University of Science and Technology of China
+  * [Arxiv2024] https://arxiv.org/abs/2405.10529
 
 ## Data-Poisoning
