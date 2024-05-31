@@ -110,10 +110,18 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * [Arxiv2024] https://arxiv.org/abs/2404.10335
 
 ## Jailbreak-Attack
+* **Are aligned neural networks adversarially aligned?** | 
+  * Nicholas Carlini, Milad Nasr, Christopher A. Choquette-Choo, Matthew Jagielski, Irena Gao, Anas Awadalla, Pang Wei Koh, Daphne Ippolito, Katherine Lee, Florian Tramer, Ludwig Schmidt
+  * Google DeepMind, Stanford, University of Washington, ETH Zurich
+  * [NeurIPs2023] https://arxiv.org/abs/2306.15447
 * **FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts** | [Github](https://github.com/ThuCCSLab/FigStep)
   * Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang
   * Tsinghua University, Shandong University, Carnegie Mellon University
   * [Arxiv2023] https://arxiv.org/abs/2311.05608
+* **Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts** | 
+  * Yuanwei Wu, Xiang Li, Yixin Liu, Pan Zhou, Lichao Sun
+  * Huazhong University of Science and Technology, Lehigh University
+  * [Arxiv2023] https://arxiv.org/abs/2311.09127
 * **MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models** | [Github](https://github.com/isXinLiu/MM-SafetyBench)
   * Xin Liu, Yichen Zhu, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
   * Shanghai AI Laboratory, East China Normal University, Midea Group, University of Oxford
@@ -134,12 +142,34 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zhenxing Niu, Haodong Ren, Xinbo Gao, Gang Hua, Rong Jin
   * Xidian University, Wormpex AI Research, Meta
   * [Arxiv2024] https://arxiv.org/abs/2402.02309
+* **ImgTrojan: Jailbreaking Vision-Language Models with ONE Image** | [Github](https://github.com/xijia-tao/ImgTrojan)
+  * Xijia Tao, Shuai Zhong, Lei Li, Qi Liu, Lingpeng Kong
+  * The University of Hong Kong
+  * [Arxiv2024] https://arxiv.org/abs/2403.02910
 * **Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models** | [Github](https://github.com/AoiDragon/HADES)
   * Yifan Li, Hangyu Guo, Kun Zhou, Wayne Xin Zhao, Ji-Rong Wen
   * Renmin University of China, Beijing Key Laboratory of Big Data Management and Analysis Methods
   * [Arxiv2024] https://arxiv.org/abs/2403.09792
-
-
+* **Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?** | 
+  * Shuo Chen, Zhen Han, Bailan He, Zifeng Ding, Wenqian Yu, Philip Torr, Volker Tresp, Jindong Gu
+  * LMU Munich, University of Oxford, Siemens AG, Munich Center for Machine Learning, Wuhan University
+  * [Arxiv2024] https://arxiv.org/abs/2404.03411
+* **JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks** | [Github](https://github.com/EddyLuo1232/JailBreakV_28K)
+  * Weidi Luo, Siyuan Ma, Xiaogeng Liu, Xiaoyu Guo, Chaowei Xiao
+  * The Ohio State University, University of Wisconsin-Madison
+  * [Arxiv2024] https://arxiv.org/abs/2404.03027
+* **Unbridled Icarus: A Survey of the Potential Perils of Image Inputs in Multimodal Large Language Model Security** | 
+  * Yihe Fan, Yuxin Cao, Ziyu Zhao, Ziyao Liu, Shaofeng Li
+  * TongJi University, Tsinghua University, Beijing University of Technology, Nanyang Technological University,  Peng Cheng Laboratory
+  * [Arxiv2024] https://arxiv.org/abs/2404.05264
+* **White-box Multimodal Jailbreaks Against Large Vision-Language Models** | 
+  * Ruofan Wang, Xingjun Ma, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang
+  * Fudan University, Shanghai Jiao Tong University, DataGrand Tech
+  * [Arxiv2024] https://arxiv.org/abs/2405.17894
+* **Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks** | [Github](https://github.com/gpantaz/vl_jailbreak)
+  * Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia
+  * Heriot-Watt University
+  * [COLINGworkshop2024] https://arxiv.org/abs/2405.04403
 
 ## Prompt-Injection
 
