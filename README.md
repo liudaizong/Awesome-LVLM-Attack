@@ -202,3 +202,23 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * [Arxiv2024] https://arxiv.org/abs/2405.10529
 
 ## Data-Poisoning
+* **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** | [Github](https://github.com/umd-huang-lab/VLM-Poisoning)
+  * Yuancheng Xu, Jiarui Yao, Manli Shu, Yanchao Sun, Zichu Wu, Ning Yu, Tom Goldstein, Furong Huang
+  * University of Maryland, College Park, JPMorgan AI Research, University of Waterloo, Salesforce Research
+  * [Arxiv2024] https://arxiv.org/abs/2402.06659
+* **PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models** | [Github](https://github.com/sleeepeer/PoisonedRAG)
+  * Wei Zou, Runpeng Geng, Binghui Wang, Jinyuan Jia
+  * Pennsylvania State University, Wuhan University, Illinois Institute of Technology
+  * [Arxiv2024] https://arxiv.org/abs/2402.07867
+* **Test-Time Backdoor Attacks on Multimodal Large Language Models** | [Github](https://github.com/sail-sg/AnyDoor)
+  * Dong Lu, Tianyu Pang, Chao Du, Qian Liu, Xianjun Yang, Min Lin
+  * Southern University of Science and Technology, Sea AI Lab, University of California
+  * [Arxiv2024] https://arxiv.org/abs/2402.08577
+* **VL-Trojan: Multimodal Instruction Backdoor Attacks against Autoregressive Visual Language Models** | 
+  * Jiawei Liang, Siyuan Liang, Man Luo, Aishan Liu, Dongchen Han, Ee-Chien Chang, Xiaochun Cao
+  * Sun Yat-sen University
+  * [Arxiv2024] https://arxiv.org/abs/2402.13851
+* **Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models** | 
+  * Zhenyang Ni, Rui Ye, Yuxi Wei, Zhen Xiang, Yanfeng Wang, Siheng Chen
+  * Shanghai Jiao Tong University, University of Illinois Urbana-Champaign, Shanghai AI Laboratory, Multi-Agent Governance & Intelligence Crew
+  * [Arxiv2024] https://arxiv.org/abs/2404.12916
