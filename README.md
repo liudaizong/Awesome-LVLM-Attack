@@ -108,6 +108,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Qi Guo, Shanmin Pang, Xiaojun Jia, Qing Guo
   * Xi’an Jiaotong University, Nanyang Technological University, Center for Frontier AI Research
   * [Arxiv2024] https://arxiv.org/abs/2404.10335
+* **Adversarial Attacks on Multimodal Agents** | 
+  * Chen Henry Wu, Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried, Aditi Raghunathan
+  * Carnegie Mellon University
+  * [Arxiv2024] https://arxiv.org/abs/2406.12814
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
