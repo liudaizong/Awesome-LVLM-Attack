@@ -178,6 +178,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Siyuan Wang, Zhuohan Long, Zhihao Fan, Zhongyu Wei
   * University of Southern California, Fudan University, Alibaba Inc.
   * [Arxiv2024] https://arxiv.org/abs/2406.14859
+* **Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks** | 
+  * Zonghao Ying, Aishan Liu, Xianglong Liu, Dacheng Tao
+  * Beihang University, Nanyang Technological University
+  * [Arxiv2024] https://arxiv.org/abs/2406.06302
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
