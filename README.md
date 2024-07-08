@@ -170,6 +170,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Ruofan Wang, Xingjun Ma, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang
   * Fudan University, Shanghai Jiao Tong University, DataGrand Tech
   * [Arxiv2024] https://arxiv.org/abs/2405.17894
+* **From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking** | 
+  * Siyuan Wang, Zhuohan Long, Zhihao Fan, Zhongyu Wei
+  * University of Southern California, Fudan University, Alibaba Inc.
+  * [Arxiv2024] https://arxiv.org/abs/2406.14859
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
