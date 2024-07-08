@@ -222,3 +222,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zhenyang Ni, Rui Ye, Yuxi Wei, Zhen Xiang, Yanfeng Wang, Siheng Chen
   * Shanghai Jiao Tong University, University of Illinois Urbana-Champaign, Shanghai AI Laboratory, Multi-Agent Governance & Intelligence Crew
   * [Arxiv2024] https://arxiv.org/abs/2404.12916
+* **Revisiting Backdoor Attacks against Large Vision-Language Models** | 
+  * Siyuan Liang, Jiawei Liang, Tianyu Pang, Chao Du, Aishan Liu, Ee-Chien Chang, Xiaochun Cao
+  * National University of Singapore, Sun Yat-sen University, Beihang University
+  * [Arxiv2024] https://arxiv.org/abs/2406.18844
