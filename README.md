@@ -182,6 +182,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zonghao Ying, Aishan Liu, Xianglong Liu, Dacheng Tao
   * Beihang University, Nanyang Technological University
   * [Arxiv2024] https://arxiv.org/abs/2406.06302
+* **Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character** | 
+  * Siyuan Ma, Weidi Luo, Yu Wang, Xiaogeng Liu
+  * University of Wisconsin–Madison, The Ohio State University, Peking University
+  * [Arxiv2024] https://arxiv.org/abs/2405.20773
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
