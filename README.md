@@ -6,7 +6,7 @@ Despite their remarkable capabilities, the increased complexity and deployment o
 
 Here, we've summarized existing LVLM Attack methods in our survey paper👍.
 
-[A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends]()
+[A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends](https://arxiv.org/abs/2407.07403)
 
 > If you find some important work missed, it would be super helpful to let me know (`dzliu@stu.pku.edu.cn`). Thanks!
 
@@ -16,7 +16,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
 @article{liu2024attack,
   title={A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends},
   author={Liu, Daizong and Yang, Mingyu and Qu, Xiaoye and Zhou, Pan and Hu, Wei and Cheng, Yu},
-  journal={arXiv preprint arXiv},
+  journal={arXiv preprint arXiv:2407.07403},
   year={2024}
 }
 ```
