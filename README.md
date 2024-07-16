@@ -113,6 +113,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Chen Henry Wu, Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried, Aditi Raghunathan
   * Carnegie Mellon University
   * [Arxiv2024] https://arxiv.org/abs/2406.12814
+* **Refusing Safe Prompts for Multi-modal Large Language Models** | 
+  * Zedian Shao, Hongbin Liu, Yuepeng Hu, Neil Zhenqiang Gong
+  * Duke University
+  * [Arxiv2024] https://arxiv.org//abs/2407.09050
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
