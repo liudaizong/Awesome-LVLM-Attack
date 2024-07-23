@@ -191,6 +191,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Siyuan Ma, Weidi Luo, Yu Wang, Xiaogeng Liu
   * University of Wisconsin–Madison, The Ohio State University, Peking University
   * [Arxiv2024] https://arxiv.org/abs/2405.20773
+* **Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts** | 
+  * Yi Liu, Chengjun Cai, Xiaoli Zhang, Xingliang Yuan, Cong Wang
+  * Stanford, Harvard, Anthropic, Constellation, MIT, UC Berkeley
+  * [Arxiv2024] https://arxiv.org/abs/2407.15050
+* **When Do Universal Image Jailbreaks Transfer Between Vision-Language Models?** | 
+  * Rylan Schaeffer, Dan Valentine, Luke Bailey, James Chua, Cristóbal Eyzaguirre, Zane Durante, Joe Benton, Brando Miranda, Henry Sleight, John Hughes, Rajashree Agrawal, Mrinank Sharma, Scott Emmons, Sanmi Koyejo, Ethan Perez
+  * City University of Hong Kong, University of Science and Technology, The University of Melbourne
+  * [Arxiv2024] https://arxiv.org/abs/2407.15211
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
