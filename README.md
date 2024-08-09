@@ -229,6 +229,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Jiachen Sun, Changsheng Wang, Jiongxiao Wang, Yiwei Zhang, Chaowei Xiao
   * University of Michigan Ann arbor, University of Wisconsin Madison, University of Science and Technology of China
   * [Arxiv2024] https://arxiv.org/abs/2405.10529
+* **Empirical Analysis of Large Vision-Language Models against Goal Hijacking via Visual Prompt Injection** | #
+  * Subaru Kimura, Ryota Tanaka, Shumpei Miyawaki, Jun Suzuki, Keisuke Sakaguchi
+  * Tohoku University, NTT Corporation
+  * [Arxiv2024] https://arxiv.org/abs/2408.03554
 
 ## Data-Poisoning
 * **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** | [Github](https://github.com/umd-huang-lab/VLM-Poisoning)
