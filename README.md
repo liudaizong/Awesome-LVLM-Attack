@@ -199,6 +199,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Rylan Schaeffer, Dan Valentine, Luke Bailey, James Chua, Cristóbal Eyzaguirre, Zane Durante, Joe Benton, Brando Miranda, Henry Sleight, John Hughes, Rajashree Agrawal, Mrinank Sharma, Scott Emmons, Sanmi Koyejo, Ethan Perez
   * City University of Hong Kong, University of Science and Technology, The University of Melbourne
   * [Arxiv2024] https://arxiv.org/abs/2407.15211
+* **MMJ-Bench: A Comprehensive Study on Jailbreak Attacks and Defenses for Vision Language Models** | #
+  * Fenghua Weng, Yue Xu, Chengyan Fu, Wenjie Wang
+  * ShanghaiTech University
+  * [Arxiv2024] https://arxiv.org/abs/2408.08464
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
