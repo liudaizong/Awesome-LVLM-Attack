@@ -117,6 +117,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zedian Shao, Hongbin Liu, Yuepeng Hu, Neil Zhenqiang Gong
   * Duke University
   * [Arxiv2024] https://arxiv.org//abs/2407.09050
+* **Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images** | [Github](https://github.com/KuofengGao/Verbose_Images)
+  * Kuofeng Gao, Yang Bai, Jindong Gu, Shu-Tao Xia, Philip Torr, Zhifeng Li, Wei Liu
+  * Tsinghua University, Tencent Technology, University of Oxford, Tencent Data Platform, Peng Cheng Laboratory 
+  * [Arxiv2024] https://arxiv.org/abs/2401.11170
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
