@@ -121,6 +121,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Kuofeng Gao, Yang Bai, Jindong Gu, Shu-Tao Xia, Philip Torr, Zhifeng Li, Wei Liu
   * Tsinghua University, Tencent Technology, University of Oxford, Tencent Data Platform, Peng Cheng Laboratory 
   * [Arxiv2024] https://arxiv.org/abs/2401.11170
+* **On the Robustness of Large Multimodal Models Against Image Adversarial Attacks** | #
+  * Xuanming Cui, Alejandro Aparcedo, Young Kyun Jang, Ser-Nam Lim
+  * University of Central Florida
+  * [CVPR2024] https://openaccess.thecvf.com/content/CVPR2024/papers/Cui_On_the_Robustness_of_Large_Multimodal_Models_Against_Image_Adversarial_CVPR_2024_paper.pdf
+* **Exploring the Transferability of Visual Prompting for Multimodal Large Language Models** | [Github](https://github.com/zycheiheihei/Transferable-Visual-Prompting) #
+  * Yichi Zhang, Yinpeng Dong, Siyuan Zhan, Tianzan Min, Hang Su, Jun Zhu
+  * Tsinghua University, RealAI, Pazhou Laboratory (Huangpu)
+  * [CVPR2024] https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_the_Transferability_of_Visual_Prompting_for_Multimodal_Large_Language_CVPR_2024_paper.pdf
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
@@ -241,6 +249,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Subaru Kimura, Ryota Tanaka, Shumpei Miyawaki, Jun Suzuki, Keisuke Sakaguchi
   * Tohoku University, NTT Corporation
   * [Arxiv2024] https://arxiv.org/abs/2408.03554
+* **Exploring the Transferability of Visual Prompting for Multimodal Large Language Models** | [Github](https://github.com/zycheiheihei/Transferable-Visual-Prompting) #
+  * Yichi Zhang, Yinpeng Dong, Siyuan Zhan, Tianzan Min, Hang Su, Jun Zhu
+  * Tsinghua University, RealAI, Pazhou Laboratory (Huangpu)
+  * [CVPR2024] https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_the_Transferability_of_Visual_Prompting_for_Multimodal_Large_Language_CVPR_2024_paper.pdf
 
 ## Data-Poisoning
 * **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** | [Github](https://github.com/umd-huang-lab/VLM-Poisoning)
