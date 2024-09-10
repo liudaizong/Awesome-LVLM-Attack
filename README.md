@@ -61,10 +61,6 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Haoqin Tu, Chenhang Cui, Zijun Wang, Yiyang Zhou, Bingchen Zhao, Junlin Han, Wangchunshu Zhou, Huaxiu Yao, Cihang Xie
   * UC Santa Cruz, UNC-Chapel Hill, University of Edinburgh, University of Oxford, AIWaves Inc.
   * [Arxiv2023] https://arxiv.org/abs/2311.16101
-* **On the Robustness of Large Multimodal Models Against Image Adversarial Attacks** | 
-  * Xuanming Cui, Alejandro Aparcedo, Young Kyun Jang, Ser-Nam Lim
-  * University of Central Florida
-  * [Arxiv2023] https://arxiv.org/abs/2312.03777
 * **InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models** | 
   * Xunguang Wang, Zhenlan Ji, Pingchuan Ma, Zongjie Li, Shuai Wang
   * The Hong Kong University of Science and Technology
@@ -117,7 +113,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zedian Shao, Hongbin Liu, Yuepeng Hu, Neil Zhenqiang Gong
   * Duke University
   * [Arxiv2024] https://arxiv.org//abs/2407.09050
-* **On the Robustness of Large Multimodal Models Against Image Adversarial Attacks** | #
+* **On the Robustness of Large Multimodal Models Against Image Adversarial Attacks** |
   * Xuanming Cui, Alejandro Aparcedo, Young Kyun Jang, Ser-Nam Lim
   * University of Central Florida
   * [CVPR2024] https://openaccess.thecvf.com/content/CVPR2024/papers/Cui_On_the_Robustness_of_Large_Multimodal_Models_Against_Image_Adversarial_CVPR_2024_paper.pdf
