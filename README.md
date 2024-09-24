@@ -116,6 +116,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zedian Shao, Hongbin Liu, Yuepeng Hu, Neil Zhenqiang Gong
   * Duke University
   * [Arxiv2024] https://arxiv.org//abs/2407.09050
+* **Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models** | #
+  * Hao Cheng, Erjia Xiao, Chengyuan Yu, Zhao Yao, Jiahang Cao, Qiang Zhang, Jiaxu Wang, Mengshu Sun, Kaidi Xu, Jindong Gu, Renjing Xu
+  * The Hong Kong University of Science and Technology, University of Oxford, Hohai University, Hunan University, Drexel University, Beijing University of Technology
+  * [Arxiv2024] https://arxiv.org/abs/2409.13174
 * **On the Robustness of Large Multimodal Models Against Image Adversarial Attacks** |
   * Xuanming Cui, Alejandro Aparcedo, Young Kyun Jang, Ser-Nam Lim
   * University of Central Florida
@@ -244,6 +248,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Subaru Kimura, Ryota Tanaka, Shumpei Miyawaki, Jun Suzuki, Keisuke Sakaguchi
   * Tohoku University, NTT Corporation
   * [Arxiv2024] https://arxiv.org/abs/2408.03554
+* **Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models** | #
+  * Hao Cheng, Erjia Xiao, Chengyuan Yu, Zhao Yao, Jiahang Cao, Qiang Zhang, Jiaxu Wang, Mengshu Sun, Kaidi Xu, Jindong Gu, Renjing Xu
+  * The Hong Kong University of Science and Technology, University of Oxford, Hohai University, Hunan University, Drexel University, Beijing University of Technology
+  * [Arxiv2024] https://arxiv.org/abs/2409.13174
 * **Exploring the Transferability of Visual Prompting for Multimodal Large Language Models** | [Github](https://github.com/zycheiheihei/Transferable-Visual-Prompting) #
   * Yichi Zhang, Yinpeng Dong, Siyuan Zhan, Tianzan Min, Hang Su, Jun Zhu
   * Tsinghua University, RealAI, Pazhou Laboratory (Huangpu)
