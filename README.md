@@ -120,7 +120,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Hao Cheng, Erjia Xiao, Chengyuan Yu, Zhao Yao, Jiahang Cao, Qiang Zhang, Jiaxu Wang, Mengshu Sun, Kaidi Xu, Jindong Gu, Renjing Xu
   * The Hong Kong University of Science and Technology, University of Oxford, Hohai University, Hunan University, Drexel University, Beijing University of Technology
   * [Arxiv2024] https://arxiv.org/abs/2409.13174
-* **AnyAttack: Towards Large-scale Self-supervised Generation of Targeted Adversarial Examples for Vision-Language Models** | [Github]([https://github.com/ThuCCSLab/FigStep](https://github.com/jiamingzhang94/AnyAttack)) #
+* **AnyAttack: Towards Large-scale Self-supervised Generation of Targeted Adversarial Examples for Vision-Language Models** | [Github](https://github.com/jiamingzhang94/AnyAttack) #
   * Jiaming Zhang, Junhong Ye, Xingjun Ma, Yige Li, Yunfan Yang, Jitao Sang, Dit-Yan Yeung
   * Hong Kong University of Science and Technology, Beijing Jiaotong University, Fudan University, Singapore Management University
   * [Arxiv2024] https://arxiv.org//abs/2410.05346
