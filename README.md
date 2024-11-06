@@ -222,6 +222,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Fenghua Weng, Yue Xu, Chengyan Fu, Wenjie Wang
   * ShanghaiTech University
   * [Arxiv2024] https://arxiv.org/abs/2408.08464
+* **UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models** | #
+  * Sejoon Oh, Yiqiao Jin, Megha Sharma, Donghyun Kim, Eric Ma, Gaurav Verma, Srijan Kumar
+  * Netflix, Georgia Institute of Technology
+  * [Arxiv2024] https://arxiv.org/abs/2411.01703
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
@@ -290,3 +294,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Siyuan Liang, Jiawei Liang, Tianyu Pang, Chao Du, Aishan Liu, Ee-Chien Chang, Xiaochun Cao
   * National University of Singapore, Sun Yat-sen University, Beihang University
   * [Arxiv2024] https://arxiv.org/abs/2406.18844
+* **Membership Inference Attacks against Large Vision-Language Models** | [Github](https://github.com/LIONS-EPFL/VL-MIA) #
+  * Zhan Li, Yongtao Wu, Yihang Chen, Francesco Tonin, Elias Abad Rocamora, Volkan Cevher
+  * University of California
+  * [NeurIPS2024] https://arxiv.org/abs/2411.02902
