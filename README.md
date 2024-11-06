@@ -23,7 +23,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
 
 **Table of Contents**
 - [Adversarial Attacks](#Adversarial-Attack)
-- [Jailbreack Attacks](#Jailbreak-Attack)
+- [Jailbreak Attacks](#Jailbreak-Attack)
 - [Prompt Injection](#Prompt-Injection)
 - [Data Poisoning](#Data-Poisoning)
 
