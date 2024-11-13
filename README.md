@@ -226,6 +226,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Sejoon Oh, Yiqiao Jin, Megha Sharma, Donghyun Kim, Eric Ma, Gaurav Verma, Srijan Kumar
   * Netflix, Georgia Institute of Technology
   * [Arxiv2024] https://arxiv.org/abs/2411.01703
+* **Zer0-Jack: A Memory-efficient Gradient-based Jailbreaking Method for Black-box Multi-modal Large Language Models** | #
+  * Tiejin Chen, Kaishen Wang, Hua Wei
+  * Arizona State University
+  * [Arxiv2024] https://arxiv.org/abs/2411.07559
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
