@@ -136,6 +136,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yubo Wang, Chaohu Liu, Yanqiu Qu, Haoyu Cao, Deqiang Jiang, Linli Xu
   * University of Science and Technology of China, Tencent YouTu Lab
   * [ACMMM2024] https://arxiv.org/abs/2410.06699
+* **Pandora's Box: Towards Building Universal Attackers against Real-World Large Vision-Language Models** | #
+  * Daizong Liu, Mingyu Yang, Xiaoye Qu, Pan Zhou, Xiang Fang, Keke Tang, Yao Wan, Lichao Sun
+  * Peking University, Huazhong University of Science and Technology, Nanyang Technological University, Guangzhou University, Lehigh University
+  * [NeurIPS2024] https://openreview.net/forum?id=gDpWYpocE1
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
@@ -272,6 +276,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yichi Zhang, Yinpeng Dong, Siyuan Zhan, Tianzan Min, Hang Su, Jun Zhu
   * Tsinghua University, RealAI, Pazhou Laboratory (Huangpu)
   * [CVPR2024] https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_the_Transferability_of_Visual_Prompting_for_Multimodal_Large_Language_CVPR_2024_paper.pdf
+* **Pandora's Box: Towards Building Universal Attackers against Real-World Large Vision-Language Models** | #
+  * Daizong Liu, Mingyu Yang, Xiaoye Qu, Pan Zhou, Xiang Fang, Keke Tang, Yao Wan, Lichao Sun
+  * Peking University, Huazhong University of Science and Technology, Nanyang Technological University, Guangzhou University, Lehigh University
+  * [NeurIPS2024] https://openreview.net/forum?id=gDpWYpocE1
 
 ## Data-Poisoning
 * **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** | [Github](https://github.com/umd-huang-lab/VLM-Poisoning)
