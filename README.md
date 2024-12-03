@@ -234,6 +234,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Tiejin Chen, Kaishen Wang, Hua Wei
   * Arizona State University
   * [Arxiv2024] https://arxiv.org/abs/2411.07559
+* **Jailbreak Large Visual Language Models Through Multi-Modal Linkage** | [Github](https://github.com/wangyu-ovo/MML) #
+  * Yu Wang, Xiaofei Zhou, Yichen Wang, Geyuan Zhang, Tianxing He
+  * 
+  * [Arxiv2024] https://arxiv.org/abs/2412.00473
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
