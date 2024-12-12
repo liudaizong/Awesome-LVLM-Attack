@@ -124,6 +124,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Jiaming Zhang, Junhong Ye, Xingjun Ma, Yige Li, Yunfan Yang, Jitao Sang, Dit-Yan Yeung
   * Hong Kong University of Science and Technology, Beijing Jiaotong University, Fudan University, Singapore Management University
   * [Arxiv2024] https://arxiv.org//abs/2410.05346
+* **Doubly-Universal Adversarial Perturbations: Deceiving Vision-Language Models Across Both Images and Text with a Single Perturbation** | #
+  * Hee-Seon Kim, Minbeom Kim, Changick Kim
+  * Korea Advanced Institute of Science and Technology
+  * [Arxiv2024] https://arxiv.org/abs/2412.08108
 * **On the Robustness of Large Multimodal Models Against Image Adversarial Attacks** |
   * Xuanming Cui, Alejandro Aparcedo, Young Kyun Jang, Ser-Nam Lim
   * University of Central Florida
