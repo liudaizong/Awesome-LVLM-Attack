@@ -246,6 +246,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Ma Teng, Jia Xiaojun, Duan Ranjie, Li Xinfeng, Huang Yihao, Chu Zhixuan, Liu Yang, Ren Wenqi
   * Sun Yat-Sen University, Nanyang Technological University, Alibaba Group, Zhejiang University
   * [Arxiv2024] https://arxiv.org/abs/2412.05934
+* **Retention Score: Quantifying Jailbreak Risks for Vision Language Models** |  #
+  * Zaitang Li, Pin-Yu Chen, Tsung-Yi Ho
+  * The Chinese University of Hong Kong, IBM Research
+  * [AAAI2025] https://arxiv.org/abs/2412.17544
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
