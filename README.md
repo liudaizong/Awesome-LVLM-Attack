@@ -254,6 +254,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zaitang Li, Pin-Yu Chen, Tsung-Yi Ho
   * The Chinese University of Hong Kong, IBM Research
   * [AAAI2025] https://arxiv.org/abs/2412.17544
+* **Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency** |  #
+  * Shiji Zhao, Ranjie Duan, Fengxiang Wang, Chi Chen, Caixin Kang, Jialing Tao, YueFeng Chen, Hui Xue, Xingxing Wei
+  *  Beihang University
+  * [Arxiv2025] https://arxiv.org/abs/2501.04931
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
