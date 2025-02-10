@@ -334,3 +334,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zhan Li, Yongtao Wu, Yihang Chen, Francesco Tonin, Elias Abad Rocamora, Volkan Cevher
   * University of California
   * [NeurIPS2024] https://arxiv.org/abs/2411.02902
+* **Membership Inference Attacks Against Vision-Language Models** | [Github](https://github.com/YukeHu/vlm_mia) #
+  * Yuke Hu, Zheng Li, Zhihao Liu, Yang Zhang, Zhan Qin, Kui Ren, Chun Chen
+  * Zhejiang University, Shandong University, CISPA Helmholtz Center for Information Security
+  * [USENIX'25] https://arxiv.org/abs/2501.18624
