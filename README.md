@@ -148,6 +148,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Linhao Huang, Xue Jiang, Zhiqiang Wang, Wentao Mo, Xi Xiao, Bo Han, Yongjie Yin, Feng Zheng
   * Tsinghua University, Southern University of Science and Technology, Hong Kong Baptist University, Hong Kong University of Science and Technology, China Electronics Corporation
   * [Arxiv2025] https://arxiv.org/abs/2501.01042
+* **Effective Black-Box Multi-Faceted Attacks Breach Vision Large Language Model Guardrails** | #
+  * Yijun Yang, Lichao Wang, Xiao Yang, Lanqing Hong, Jun Zhu
+  * Tsinghua University, Huawei Noah’s Ark Lab
+  * [Arxiv2025] https://arxiv.org/abs/2502.05772
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
@@ -304,6 +308,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Daizong Liu, Mingyu Yang, Xiaoye Qu, Pan Zhou, Xiang Fang, Keke Tang, Yao Wan, Lichao Sun
   * Peking University, Huazhong University of Science and Technology, Nanyang Technological University, Guangzhou University, Lehigh University
   * [NeurIPS2024] https://openreview.net/forum?id=gDpWYpocE1
+* **Effective Black-Box Multi-Faceted Attacks Breach Vision Large Language Model Guardrails** | #
+  * Yijun Yang, Lichao Wang, Xiao Yang, Lanqing Hong, Jun Zhu
+  * Tsinghua University, Huawei Noah’s Ark Lab
+  * [Arxiv2025] https://arxiv.org/abs/2502.05772
 
 ## Data-Poisoning
 * **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** | [Github](https://github.com/umd-huang-lab/VLM-Poisoning)
