@@ -152,6 +152,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yijun Yang, Lichao Wang, Xiao Yang, Lanqing Hong, Jun Zhu
   * Tsinghua University, Huawei Noah’s Ark Lab
   * [Arxiv2025] https://arxiv.org/abs/2502.05772
+* **Universal Adversarial Attack on Aligned Multimodal LLMs** | #
+  * Temurbek Rahmatullaev, Polina Druzhinina, Matvey Mikhalchuk, Andrey Kuznetsov, Anton Razzhigaev
+  * n/a
+  * [Arxiv2025] https://arxiv.org/abs/2502.07987
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
