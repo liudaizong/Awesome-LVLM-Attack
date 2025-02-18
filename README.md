@@ -116,15 +116,15 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zedian Shao, Hongbin Liu, Yuepeng Hu, Neil Zhenqiang Gong
   * Duke University
   * [Arxiv2024] https://arxiv.org//abs/2407.09050
-* **Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models** | #
+* **Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models** | 
   * Hao Cheng, Erjia Xiao, Chengyuan Yu, Zhao Yao, Jiahang Cao, Qiang Zhang, Jiaxu Wang, Mengshu Sun, Kaidi Xu, Jindong Gu, Renjing Xu
   * The Hong Kong University of Science and Technology, University of Oxford, Hohai University, Hunan University, Drexel University, Beijing University of Technology
   * [Arxiv2024] https://arxiv.org/abs/2409.13174
-* **AnyAttack: Towards Large-scale Self-supervised Generation of Targeted Adversarial Examples for Vision-Language Models** | [Github](https://github.com/jiamingzhang94/AnyAttack) #
+* **AnyAttack: Towards Large-scale Self-supervised Generation of Targeted Adversarial Examples for Vision-Language Models** | [Github](https://github.com/jiamingzhang94/AnyAttack) 
   * Jiaming Zhang, Junhong Ye, Xingjun Ma, Yige Li, Yunfan Yang, Jitao Sang, Dit-Yan Yeung
   * Hong Kong University of Science and Technology, Beijing Jiaotong University, Fudan University, Singapore Management University
   * [Arxiv2024] https://arxiv.org//abs/2410.05346
-* **Doubly-Universal Adversarial Perturbations: Deceiving Vision-Language Models Across Both Images and Text with a Single Perturbation** | #
+* **Doubly-Universal Adversarial Perturbations: Deceiving Vision-Language Models Across Both Images and Text with a Single Perturbation** | 
   * Hee-Seon Kim, Minbeom Kim, Changick Kim
   * Korea Advanced Institute of Science and Technology
   * [Arxiv2024] https://arxiv.org/abs/2412.08108
@@ -132,27 +132,27 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Xuanming Cui, Alejandro Aparcedo, Young Kyun Jang, Ser-Nam Lim
   * University of Central Florida
   * [CVPR2024] https://openaccess.thecvf.com/content/CVPR2024/papers/Cui_On_the_Robustness_of_Large_Multimodal_Models_Against_Image_Adversarial_CVPR_2024_paper.pdf
-* **Exploring the Transferability of Visual Prompting for Multimodal Large Language Models** | [Github](https://github.com/zycheiheihei/Transferable-Visual-Prompting) #
+* **Exploring the Transferability of Visual Prompting for Multimodal Large Language Models** | [Github](https://github.com/zycheiheihei/Transferable-Visual-Prompting) 
   * Yichi Zhang, Yinpeng Dong, Siyuan Zhan, Tianzan Min, Hang Su, Jun Zhu
   * Tsinghua University, RealAI, Pazhou Laboratory (Huangpu)
   * [CVPR2024] https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_the_Transferability_of_Visual_Prompting_for_Multimodal_Large_Language_CVPR_2024_paper.pdf
-* **Break the Visual Perception: Adversarial Attacks Targeting Encoded Visual Tokens of Large Vision-Language Models** | #
+* **Break the Visual Perception: Adversarial Attacks Targeting Encoded Visual Tokens of Large Vision-Language Models** | 
   * Yubo Wang, Chaohu Liu, Yanqiu Qu, Haoyu Cao, Deqiang Jiang, Linli Xu
   * University of Science and Technology of China, Tencent YouTu Lab
   * [ACMMM2024] https://arxiv.org/abs/2410.06699
-* **Pandora's Box: Towards Building Universal Attackers against Real-World Large Vision-Language Models** | #
+* **Pandora's Box: Towards Building Universal Attackers against Real-World Large Vision-Language Models** | 
   * Daizong Liu, Mingyu Yang, Xiaoye Qu, Pan Zhou, Xiang Fang, Keke Tang, Yao Wan, Lichao Sun
   * Peking University, Huazhong University of Science and Technology, Nanyang Technological University, Guangzhou University, Lehigh University
   * [NeurIPS2024] https://openreview.net/forum?id=gDpWYpocE1
-* **Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs** | #
+* **Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs** | 
   * Linhao Huang, Xue Jiang, Zhiqiang Wang, Wentao Mo, Xi Xiao, Bo Han, Yongjie Yin, Feng Zheng
   * Tsinghua University, Southern University of Science and Technology, Hong Kong Baptist University, Hong Kong University of Science and Technology, China Electronics Corporation
   * [Arxiv2025] https://arxiv.org/abs/2501.01042
-* **Effective Black-Box Multi-Faceted Attacks Breach Vision Large Language Model Guardrails** | #
+* **Effective Black-Box Multi-Faceted Attacks Breach Vision Large Language Model Guardrails** | 
   * Yijun Yang, Lichao Wang, Xiao Yang, Lanqing Hong, Jun Zhu
   * Tsinghua University, Huawei Noah’s Ark Lab
   * [Arxiv2025] https://arxiv.org/abs/2502.05772
-* **Universal Adversarial Attack on Aligned Multimodal LLMs** | #
+* **Universal Adversarial Attack on Aligned Multimodal LLMs** | 
   * Temurbek Rahmatullaev, Polina Druzhinina, Matvey Mikhalchuk, Andrey Kuznetsov, Anton Razzhigaev
   * n/a
   * [Arxiv2025] https://arxiv.org/abs/2502.07987
@@ -238,34 +238,38 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Rylan Schaeffer, Dan Valentine, Luke Bailey, James Chua, Cristóbal Eyzaguirre, Zane Durante, Joe Benton, Brando Miranda, Henry Sleight, John Hughes, Rajashree Agrawal, Mrinank Sharma, Scott Emmons, Sanmi Koyejo, Ethan Perez
   * City University of Hong Kong, University of Science and Technology, The University of Melbourne
   * [Arxiv2024] https://arxiv.org/abs/2407.15211
-* **MMJ-Bench: A Comprehensive Study on Jailbreak Attacks and Defenses for Vision Language Models** | #
+* **MMJ-Bench: A Comprehensive Study on Jailbreak Attacks and Defenses for Vision Language Models** | 
   * Fenghua Weng, Yue Xu, Chengyan Fu, Wenjie Wang
   * ShanghaiTech University
   * [Arxiv2024] https://arxiv.org/abs/2408.08464
-* **UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models** | #
+* **UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models** | 
   * Sejoon Oh, Yiqiao Jin, Megha Sharma, Donghyun Kim, Eric Ma, Gaurav Verma, Srijan Kumar
   * Netflix, Georgia Institute of Technology
   * [Arxiv2024] https://arxiv.org/abs/2411.01703
-* **Zer0-Jack: A Memory-efficient Gradient-based Jailbreaking Method for Black-box Multi-modal Large Language Models** | #
+* **Zer0-Jack: A Memory-efficient Gradient-based Jailbreaking Method for Black-box Multi-modal Large Language Models** | 
   * Tiejin Chen, Kaishen Wang, Hua Wei
   * Arizona State University
   * [Arxiv2024] https://arxiv.org/abs/2411.07559
-* **Jailbreak Large Visual Language Models Through Multi-Modal Linkage** | [Github](https://github.com/wangyu-ovo/MML) #
+* **Jailbreak Large Visual Language Models Through Multi-Modal Linkage** | [Github](https://github.com/wangyu-ovo/MML) 
   * Yu Wang, Xiaofei Zhou, Yichen Wang, Geyuan Zhang, Tianxing He
   * Chinese Academy of Sciences, University of Chinese Academy of Sciences, Tsinghua University, Shanghai Qi Zhi Institute, University of Chicago
   * [Arxiv2024] https://arxiv.org/abs/2412.00473
-* **Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models** |  #
+* **Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models** |  
   * Ma Teng, Jia Xiaojun, Duan Ranjie, Li Xinfeng, Huang Yihao, Chu Zhixuan, Liu Yang, Ren Wenqi
   * Sun Yat-Sen University, Nanyang Technological University, Alibaba Group, Zhejiang University
   * [Arxiv2024] https://arxiv.org/abs/2412.05934
-* **Retention Score: Quantifying Jailbreak Risks for Vision Language Models** |  #
+* **Retention Score: Quantifying Jailbreak Risks for Vision Language Models** |  
   * Zaitang Li, Pin-Yu Chen, Tsung-Yi Ho
   * The Chinese University of Hong Kong, IBM Research
   * [AAAI2025] https://arxiv.org/abs/2412.17544
-* **Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency** |  #
+* **Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency** |  
   * Shiji Zhao, Ranjie Duan, Fengxiang Wang, Chi Chen, Caixin Kang, Jialing Tao, YueFeng Chen, Hui Xue, Xingxing Wei
-  *  Beihang University
+  * Beihang University
   * [Arxiv2025] https://arxiv.org/abs/2501.04931
+* **Distraction is All You Need for Multimodal Large Language Model Jailbreaking** |  #
+  * Zuopeng Yang, Jiluan Fan, Anli Yan, Erdun Gao, Xin Lin, Tao Li, Kanghua mo, Changyu Dong
+  * Guangzhou University, The University of Adelaide, Shanghai Jiao Tong University
+  * [Arxiv2025] https://arxiv.org/abs/2502.10794
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
@@ -296,23 +300,23 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Jiachen Sun, Changsheng Wang, Jiongxiao Wang, Yiwei Zhang, Chaowei Xiao
   * University of Michigan Ann arbor, University of Wisconsin Madison, University of Science and Technology of China
   * [Arxiv2024] https://arxiv.org/abs/2405.10529
-* **Empirical Analysis of Large Vision-Language Models against Goal Hijacking via Visual Prompt Injection** | #
+* **Empirical Analysis of Large Vision-Language Models against Goal Hijacking via Visual Prompt Injection** | 
   * Subaru Kimura, Ryota Tanaka, Shumpei Miyawaki, Jun Suzuki, Keisuke Sakaguchi
   * Tohoku University, NTT Corporation
   * [Arxiv2024] https://arxiv.org/abs/2408.03554
-* **Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models** | #
+* **Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models** | 
   * Hao Cheng, Erjia Xiao, Chengyuan Yu, Zhao Yao, Jiahang Cao, Qiang Zhang, Jiaxu Wang, Mengshu Sun, Kaidi Xu, Jindong Gu, Renjing Xu
   * The Hong Kong University of Science and Technology, University of Oxford, Hohai University, Hunan University, Drexel University, Beijing University of Technology
   * [Arxiv2024] https://arxiv.org/abs/2409.13174
-* **Exploring the Transferability of Visual Prompting for Multimodal Large Language Models** | [Github](https://github.com/zycheiheihei/Transferable-Visual-Prompting) #
+* **Exploring the Transferability of Visual Prompting for Multimodal Large Language Models** | [Github](https://github.com/zycheiheihei/Transferable-Visual-Prompting) 
   * Yichi Zhang, Yinpeng Dong, Siyuan Zhan, Tianzan Min, Hang Su, Jun Zhu
   * Tsinghua University, RealAI, Pazhou Laboratory (Huangpu)
   * [CVPR2024] https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_the_Transferability_of_Visual_Prompting_for_Multimodal_Large_Language_CVPR_2024_paper.pdf
-* **Pandora's Box: Towards Building Universal Attackers against Real-World Large Vision-Language Models** | #
+* **Pandora's Box: Towards Building Universal Attackers against Real-World Large Vision-Language Models** | 
   * Daizong Liu, Mingyu Yang, Xiaoye Qu, Pan Zhou, Xiang Fang, Keke Tang, Yao Wan, Lichao Sun
   * Peking University, Huazhong University of Science and Technology, Nanyang Technological University, Guangzhou University, Lehigh University
   * [NeurIPS2024] https://openreview.net/forum?id=gDpWYpocE1
-* **Effective Black-Box Multi-Faceted Attacks Breach Vision Large Language Model Guardrails** | #
+* **Effective Black-Box Multi-Faceted Attacks Breach Vision Large Language Model Guardrails** | 
   * Yijun Yang, Lichao Wang, Xiao Yang, Lanqing Hong, Jun Zhu
   * Tsinghua University, Huawei Noah’s Ark Lab
   * [Arxiv2025] https://arxiv.org/abs/2502.05772
@@ -342,11 +346,11 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Siyuan Liang, Jiawei Liang, Tianyu Pang, Chao Du, Aishan Liu, Ee-Chien Chang, Xiaochun Cao
   * National University of Singapore, Sun Yat-sen University, Beihang University
   * [Arxiv2024] https://arxiv.org/abs/2406.18844
-* **Membership Inference Attacks against Large Vision-Language Models** | [Github](https://github.com/LIONS-EPFL/VL-MIA) #
+* **Membership Inference Attacks against Large Vision-Language Models** | [Github](https://github.com/LIONS-EPFL/VL-MIA) 
   * Zhan Li, Yongtao Wu, Yihang Chen, Francesco Tonin, Elias Abad Rocamora, Volkan Cevher
   * University of California
   * [NeurIPS2024] https://arxiv.org/abs/2411.02902
-* **Membership Inference Attacks Against Vision-Language Models** | [Github](https://github.com/YukeHu/vlm_mia) #
+* **Membership Inference Attacks Against Vision-Language Models** | [Github](https://github.com/YukeHu/vlm_mia) 
   * Yuke Hu, Zheng Li, Zhihao Liu, Yang Zhang, Zhan Qin, Kui Ren, Chun Chen
   * Zhejiang University, Shandong University, CISPA Helmholtz Center for Information Security
   * [USENIX'25] https://arxiv.org/abs/2501.18624
