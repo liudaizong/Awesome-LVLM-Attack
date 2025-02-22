@@ -357,3 +357,59 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * [USENIX'25] https://arxiv.org/abs/2501.18624
 
 ## Special-Attacks-For-LVLM-Applications
+* **Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models** | 
+  * Zhenyang Ni, Rui Ye, Yuxi Wei, Zhen Xiang, Yanfeng Wang, Siheng Chen
+  * Shanghai Jiao Tong University, University of Illinois Urbana-Champaign, Shanghai AI Laboratory, Multi-Agent Governance & Intelligence Crew
+  * [Arxiv2024] https://arxiv.org/abs/2404.12916
+* **Towards Transferable Attacks Against Vision-LLMs in Autonomous Driving with Typography** | 
+  * Nhat Chung, Sensen Gao, Tuan-Anh Vu, Jie Zhang, Aishan Liu, Yun Lin, Jin Song Dong, Qing Guo
+  * A*STAR, VNU-HCM, Nankai University, HKUST, Nanyang Technological University, Beihang University, Shanghai Jiao Tong University, National University of Singapore
+  * [Arxiv2024] https://arxiv.org/abs/2405.14169
+* **PG-Attack: A Precision-Guided Adversarial Attack Framework Against Vision Foundation Models for Autonomous Driving** | 
+  * Jiyuan Fu, Zhaoyu Chen, Kaixun Jiang, Haijing Guo, Shuyong Gao, Wenqiang Zhang
+  * Fudan University
+  * [Arxiv2024] https://arxiv.org/abs/2407.13111
+* **Visual Adversarial Attack on Vision-Language Models for Autonomous Driving** | 
+  * Tianyuan Zhang, Lu Wang, Xinwei Zhang, Yitong Zhang, Boyi Jia, Siyuan Liang, Shengshan Hu, Qiang Fu, Aishan Liu, Xianglong Liu
+  * Beihang University, National University of Singapore, Huazhong University of Science and Technology
+  * [Arxiv2024] https://arxiv.org/abs/2411.18275
+* **AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving** | [Github](https://github.com/taco-group/AutoTrust) 
+  * Shuo Xing, Hongyuan Hua, Xiangbo Gao, Shenzhe Zhu, Renjie Li, Kexin Tian, Xiaopeng Li, Heng Huang, Tianbao Yang, Zhangyang Wang, Yang Zhou, Huaxiu Yao, Zhengzhong Tu
+  * Texas A&M University, University of Toronto, University of Michigan, University of Wisconsin-Madison, University of Maryland, University of Texas at Austin, University of North Carolina at Chapel Hill
+  * [Arxiv2024] https://arxiv.org/abs/2412.15206
+* **Black-Box Adversarial Attack on Vision Language Models for Autonomous Driving** | 
+  * Lu Wang, Tianyuan Zhang, Yang Qu, Siyuan Liang, Yuwei Chen, Aishan Liu, Xianglong Liu, Dacheng Tao
+  * Beihang University, National University of Singapore, Aviation Industry Development Research Center of China, Nanyang Technological University
+  * [Arxiv2025] https://arxiv.org/abs/2501.13563
+* **On the Safety Concerns of Deploying LLMs/VLMs in Robotics: Highlighting the Risks and Vulnerabilities** | 
+  * Xiyang Wu, Ruiqi Xian, Tianrui Guan, Jing Liang, Souradip Chakraborty, Fuxiao Liu, Brian M. Sadler, Dinesh Manocha, Amrit Bedi
+  * University of Maryland
+  * [VLADR2024] https://openreview.net/forum?id=4FpuOMoxsX
+* **Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models** | 
+  * Hao Cheng, Erjia Xiao, Chengyuan Yu, Zhao Yao, Jiahang Cao, Qiang Zhang, Jiaxu Wang, Mengshu Sun, Kaidi Xu, Jindong Gu, Renjing Xu
+  * The Hong Kong University of Science and Technology, University of Oxford, Hohai University, Hunan University, Drexel University, Beijing University of Technology
+  * [Arxiv2024] https://arxiv.org/abs/2409.13174
+* **TrojanRobot: Physical-World Backdoor Attacks Against VLM-based Robotic Manipulation** | [Github](https://trojanrobot.github.io/index.html#physical)) 
+  * Xianlong Wang, Hewen Pan, Hangtao Zhang, Minghui Li, Shengshan Hu, Ziqi Zhou, Lulu Xue, Peijin Guo, Yichen Wang, Wei Wan, Aishan Liu, Leo Yu Zhang
+  * Huazhong University of Science and Technology, Beihang University, Griffith University
+  * [Arxiv2024] https://arxiv.org/abs/2411.11683
+* **Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics** | 
+  * Taowen Wang, Dongfang Liu, James Chenhao Liang, Wenhao Yang, Qifan Wang, Cheng Han, Jiebo Luo, Ruixiang Tang
+  * Rochester Institute of Technology, U.S. Naval Research Laboratory, Lamar University, Meta AI, University of Missouri - Kansas City, University of Rochester, Rutgers University
+  * [Arxiv2024] https://arxiv.org/abs/2411.13587
+* **BadRobot: Jailbreaking Embodied LLMs in the Physical World** | [Github](https://embodied-llms-safety.github.io/) 
+  * Hangtao Zhang, Chenyu Zhu, Xianlong Wang, Ziqi Zhou, Changgan Yin, Minghui Li, Lulu Xue, Yichen Wang, Shengshan Hu, Aishan Liu, Peijin Guo, Leo Yu Zhang
+  * Huazhong University of Science and Technology, Griffith University, Beihang University
+  * [ICLR2025] https://arxiv.org/abs/2407.20242
+* **Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models** | [Github](https://github.com/dirtycomputer/O2M_attack)
+  * Xijie Huang, Xinyuan Wang, Hantao Zhang, Yinghao Zhu, Jiawen Xi, Jingkun An, Hao Wang, Hao Liang, Chengwei Pan
+  * Beihang University, University of Science and Technology of China, Peking University
+  * [Arxiv2024] https://arxiv.org/abs/2405.20775
+* **CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models** | [Github](https://cares-ai.github.io/)
+  * Peng Xia, Ze Chen, Juanxi Tian, Yangrui Gong, Ruibo Hou, Yue Xu, Zhenbang Wu, Zhiyuan Fan, Yiyang Zhou, Kangyu Zhu, Wenhao Zheng, Zhaoyang Wang, Xiao Wang, Xuchao Zhang, Chetan Bansal, Marc Niethammer, Junzhou Huang, Hongtu Zhu, Yun Li, Jimeng Sun, Zongyuan Ge, Gang Li, James Zou, Huaxiu Yao
+  * UNC-Chapel Hill, Monash University, Brown University, University of Washington, Microsoft Research, UT Arlington, UIUC, Stanford University, HKUST
+  * [NeurIPS2024] https://arxiv.org/abs/2406.06007
+* **Medical Multimodal Model Stealing Attacks via Adversarial Domain Alignment** | 
+  * Yaling Shen, Zhixiong Zhuang, Kun Yuan, Maria-Irina Nicolae, Nassir Navab, Nicolas Padoy, Mario Fritz
+  * Bosch Center for Artificial Intelligence, Technical University of Munich, Munich Center for Machine Learning, Saarland University, University of Strasbourg, IHU Strasbourg, CISPA Helmholtz Center for Information Security
+  * [Arxiv2025] https://arxiv.org/abs/2502.02438
