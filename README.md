@@ -15,7 +15,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
 ```
 @article{liu2024attack,
   title={A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends},
-  author={Liu, Daizong and Yang, Mingyu and Qu, Xiaoye and Zhou, Pan and Hu, Wei and Cheng, Yu},
+  author={Liu, Daizong and Yang, Mingyu and Qu, Xiaoye and Zhou, Pan and Cheng, Yu and Hu, Wei},
   journal={arXiv preprint arXiv:2407.07403},
   year={2024}
 }
@@ -26,6 +26,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
 - [Jailbreak Attacks](#Jailbreak-Attack)
 - [Prompt Injection](#Prompt-Injection)
 - [Data Poisoning](#Data-Poisoning)
+- [Special Attacks For LVLM Applications](#Special-Attacks-For-LVLM-Applications)
 
 <div align=center><img src="./img/four_attacks.png" width="80%" height="80%" /></div>
 
@@ -354,3 +355,5 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yuke Hu, Zheng Li, Zhihao Liu, Yang Zhang, Zhan Qin, Kui Ren, Chun Chen
   * Zhejiang University, Shandong University, CISPA Helmholtz Center for Information Security
   * [USENIX'25] https://arxiv.org/abs/2501.18624
+
+## Special-Attacks-For-LVLM-Applications
