@@ -389,7 +389,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Hao Cheng, Erjia Xiao, Chengyuan Yu, Zhao Yao, Jiahang Cao, Qiang Zhang, Jiaxu Wang, Mengshu Sun, Kaidi Xu, Jindong Gu, Renjing Xu
   * The Hong Kong University of Science and Technology, University of Oxford, Hohai University, Hunan University, Drexel University, Beijing University of Technology
   * [Arxiv2024] https://arxiv.org/abs/2409.13174
-* **TrojanRobot: Physical-World Backdoor Attacks Against VLM-based Robotic Manipulation** | [Github](https://trojanrobot.github.io/index.html#physical)) 
+* **TrojanRobot: Physical-World Backdoor Attacks Against VLM-based Robotic Manipulation** | [Github](https://trojanrobot.github.io/index.html#physical) 
   * Xianlong Wang, Hewen Pan, Hangtao Zhang, Minghui Li, Shengshan Hu, Ziqi Zhou, Lulu Xue, Peijin Guo, Yichen Wang, Wei Wan, Aishan Liu, Leo Yu Zhang
   * Huazhong University of Science and Technology, Beihang University, Griffith University
   * [Arxiv2024] https://arxiv.org/abs/2411.11683
