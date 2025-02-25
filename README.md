@@ -385,6 +385,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Xiyang Wu, Ruiqi Xian, Tianrui Guan, Jing Liang, Souradip Chakraborty, Fuxiao Liu, Brian M. Sadler, Dinesh Manocha, Amrit Bedi
   * University of Maryland
   * [VLADR2024] https://openreview.net/forum?id=4FpuOMoxsX
+* **Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models** | 
+  * Shuyuan Liu, Jiawei Chen, Shouwei Ruan, Hang Su, Zhaoxia Yin
+  * East China Normal University, Beihang University, Tsinghua University
+  * [ACMMM2024] https://arxiv.org/abs/2405.19802
+* **Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation** | 
+  * Meng Chen, Jiawei Tu, Chao Qi, Yonghao Dang, Feng Zhou, Wei Wei, Jianqin Yin
+  * Beijing University of Posts and Telecommunications, China Academy of Railway Sciences Corporation Limited
+  * [Arxiv2024] https://arxiv.org/abs/2409.10071
 * **Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models** | 
   * Hao Cheng, Erjia Xiao, Chengyuan Yu, Zhao Yao, Jiahang Cao, Qiang Zhang, Jiaxu Wang, Mengshu Sun, Kaidi Xu, Jindong Gu, Renjing Xu
   * The Hong Kong University of Science and Technology, University of Oxford, Hohai University, Hunan University, Drexel University, Beijing University of Technology
