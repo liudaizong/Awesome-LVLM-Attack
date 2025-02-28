@@ -355,6 +355,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yuke Hu, Zheng Li, Zhihao Liu, Yang Zhang, Zhan Qin, Kui Ren, Chun Chen
   * Zhejiang University, Shandong University, CISPA Helmholtz Center for Information Security
   * [USENIX'25] https://arxiv.org/abs/2501.18624
+* **Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models** |  #
+  * Zhaoyi Liu, Huan Zhang
+  * University of Illinois Urbana-Champaign
+  * [Arxiv2025] https://arxiv.org/abs/2502.18290
 
 ## Special-Attacks-For-LVLM-Applications
 * **Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models** | 
