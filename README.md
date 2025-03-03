@@ -157,6 +157,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Temurbek Rahmatullaev, Polina Druzhinina, Matvey Mikhalchuk, Andrey Kuznetsov, Anton Razzhigaev
   * n/a
   * [Arxiv2025] https://arxiv.org/abs/2502.07987
+* **Improving Adversarial Transferability in MLLMs via Dynamic Vision-Language Alignment Attack** |  #
+  * Chenhe Gu, Jindong Gu, Andong Hua, Yao Qin
+  * University of California, University of Oxford
+  * [Arxiv2025] https://arxiv.org/abs/2502.19672
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
@@ -271,6 +275,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zuopeng Yang, Jiluan Fan, Anli Yan, Erdun Gao, Xin Lin, Tao Li, Kanghua mo, Changyu Dong
   * Guangzhou University, The University of Adelaide, Shanghai Jiao Tong University
   * [Arxiv2025] https://arxiv.org/abs/2502.10794
+* **FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts** |  #
+  * Ziyi Zhang, Zhen Sun, Zongmin Zhang, Jihui Guo, Xinlei He
+  * The Hong Kong University of Science and Technology, The University of Hong Kong
+  * [Arxiv2025] https://arxiv.org/abs/2502.21059
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
