@@ -279,6 +279,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Ziyi Zhang, Zhen Sun, Zongmin Zhang, Jihui Guo, Xinlei He
   * The Hong Kong University of Science and Technology, The University of Hong Kong
   * [Arxiv2025] https://arxiv.org/abs/2502.21059
+* **Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs** |  #
+  * Wenzhuo Xu, Zhipeng Wei, Xiongtao Sun, Deyue Zhang, Dongdong Yang, Quanchen Zou, Xiangzheng Zhang
+  * 360 AI Security Lab, Xidian University
+  * [Arxiv2025] https://arxiv.org/abs/2503.06989
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
