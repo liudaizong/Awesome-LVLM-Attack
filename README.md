@@ -283,6 +283,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Wenzhuo Xu, Zhipeng Wei, Xiongtao Sun, Deyue Zhang, Dongdong Yang, Quanchen Zou, Xiangzheng Zhang
   * 360 AI Security Lab, Xidian University
   * [Arxiv2025] https://arxiv.org/abs/2503.06989
+* **Making Every Step Effective: Jailbreaking Large Vision-Language Models Through Hierarchical KV Equalization** |  #
+  * Shuyang Hao, Yiwei Wang, Bryan Hooi, Jun Liu, Muhao Chen, Zi Huang, Yujun Cai
+  * Southeast University, University of California, National University of Singapore, Lancaster University, University of Queensland
+  * [Arxiv2025] https://arxiv.org/abs/2503.11750
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
