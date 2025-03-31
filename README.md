@@ -287,6 +287,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Shuyang Hao, Yiwei Wang, Bryan Hooi, Jun Liu, Muhao Chen, Zi Huang, Yujun Cai
   * Southeast University, University of California, National University of Singapore, Lancaster University, University of Queensland
   * [Arxiv2025] https://arxiv.org/abs/2503.11750
+* **Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy** |  #
+  * Joonhyun Jeong, Seyun Bae, Yeonsung Jung, Jaeryong Hwang, Eunho Yang
+  * NAVER Cloud, Korea Advanced Institute of Science and Technology, Republic of Korea Naval Academy, AITRICS
+  * [Arxiv2025] https://arxiv.org/abs/2503.20823
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
