@@ -161,6 +161,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Chenhe Gu, Jindong Gu, Andong Hua, Yao Qin
   * University of California, University of Oxford
   * [Arxiv2025] https://arxiv.org/abs/2502.19672
+* **Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks** |  #
+  * Jiawei Wang, Yushen Zuo, Yuanjun Chai, Zhendong Liu, Yichen Fu, Yichun Feng, Kin-man Lam
+  * University of Science and Technology of China, The Hong Kong Polytechnic University, University of Washington, Nanjing University, Stanford University, University of the Chinese Academy of Sciences
+  * [Arxiv2025] https://arxiv.org/abs/2504.01308
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
@@ -291,6 +295,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Joonhyun Jeong, Seyun Bae, Yeonsung Jung, Jaeryong Hwang, Eunho Yang
   * NAVER Cloud, Korea Advanced Institute of Science and Technology, Republic of Korea Naval Academy, AITRICS
   * [Arxiv2025] https://arxiv.org/abs/2503.20823
+* **PiCo: Jailbreaking Multimodal Large Language Models via Pictorial Code Contextualization** |  #
+  * Aofan Liu, Lulu Tang, Ting Pan, Yuguo Yin, Bin Wang, Ao Yang
+  * Wuhan University, Peking University, Beijing Academy of Artificial Intelligence
+  * [Arxiv2025] https://arxiv.org/abs/2504.01444
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
