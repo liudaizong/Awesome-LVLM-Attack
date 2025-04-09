@@ -299,6 +299,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Aofan Liu, Lulu Tang, Ting Pan, Yuguo Yin, Bin Wang, Ao Yang
   * Wuhan University, Peking University, Beijing Academy of Artificial Intelligence
   * [Arxiv2025] https://arxiv.org/abs/2504.01444
+* **JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model** |  #
+  * Yi Nian, Shenzhe Zhu, Yuehan Qin, Li Li, Ziyi Wang, Chaowei Xiao, Yue Zhao
+  * University of Southern California, University of Toronto, University of Maryland, University of Wisconsin-Madison
+  * [Arxiv2025] https://arxiv.org/abs/2504.03770
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
