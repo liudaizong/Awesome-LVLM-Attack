@@ -165,6 +165,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Jiawei Wang, Yushen Zuo, Yuanjun Chai, Zhendong Liu, Yichen Fu, Yichun Feng, Kin-man Lam
   * University of Science and Technology of China, The Hong Kong Polytechnic University, University of Washington, Nanjing University, Stanford University, University of the Chinese Academy of Sciences
   * [Arxiv2025] https://arxiv.org/abs/2504.01308
+* **Manipulating Multimodal Agents via Cross-Modal Prompt Injection** |  #
+  * Le Wang, Zonghao Ying, Tianyuan Zhang, Siyuan Liang, Shengshan Hu, Mingchuan Zhang, Aishan Liu, Xianglong Liu
+  * Beihang University, National University of Singapore, Huazhong University of Science and Technology, Henan University of Science and Technology
+  * [Arxiv2025] https://arxiv.org/abs/2504.14348
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
@@ -353,6 +357,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yijun Yang, Lichao Wang, Xiao Yang, Lanqing Hong, Jun Zhu
   * Tsinghua University, Huawei Noah’s Ark Lab
   * [Arxiv2025] https://arxiv.org/abs/2502.05772
+* **Manipulating Multimodal Agents via Cross-Modal Prompt Injection** |  #
+  * Le Wang, Zonghao Ying, Tianyuan Zhang, Siyuan Liang, Shengshan Hu, Mingchuan Zhang, Aishan Liu, Xianglong Liu
+  * Beihang University, National University of Singapore, Huazhong University of Science and Technology, Henan University of Science and Technology
+  * [Arxiv2025] https://arxiv.org/abs/2504.14348
 
 ## Data-Poisoning
 * **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** | [Github](https://github.com/umd-huang-lab/VLM-Poisoning)
