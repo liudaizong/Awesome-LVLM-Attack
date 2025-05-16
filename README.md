@@ -169,6 +169,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Le Wang, Zonghao Ying, Tianyuan Zhang, Siyuan Liang, Shengshan Hu, Mingchuan Zhang, Aishan Liu, Xianglong Liu
   * Beihang University, National University of Singapore, Huazhong University of Science and Technology, Henan University of Science and Technology
   * [Arxiv2025] https://arxiv.org/abs/2504.14348
+* **X-Transfer Attacks: Towards Super Transferable Adversarial Attacks on CLIP** |  #
+  * Hanxun Huang, Sarah Erfani, Yige Li, Xingjun Ma, James Bailey
+  * The University of Melbourne, Singapore Management University, Fudan University
+  * [ICML2025] https://arxiv.org/abs/2505.05528
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
