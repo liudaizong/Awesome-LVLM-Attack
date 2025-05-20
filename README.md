@@ -311,6 +311,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yi Nian, Shenzhe Zhu, Yuehan Qin, Li Li, Ziyi Wang, Chaowei Xiao, Yue Zhao
   * University of Southern California, University of Toronto, University of Maryland, University of Wisconsin-Madison
   * [Arxiv2025] https://arxiv.org/abs/2504.03770
+* **BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation** |  #
+  * Wenqi Lyu, Zerui Li, Yanyuan Qiao, Qi Wu
+  * University of Adelaide
+  * [Arxiv2025] https://arxiv.org/abs/2505.12443
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
@@ -365,6 +369,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Le Wang, Zonghao Ying, Tianyuan Zhang, Siyuan Liang, Shengshan Hu, Mingchuan Zhang, Aishan Liu, Xianglong Liu
   * Beihang University, National University of Singapore, Huazhong University of Science and Technology, Henan University of Science and Technology
   * [Arxiv2025] https://arxiv.org/abs/2504.14348
+* **EnvInjection: Environmental Prompt Injection Attack to Multi-modal Web Agents** |  #
+  * Xilong Wang, John Bloch, Zedian Shao, Yuepeng Hu, Shuyan Zhou, Neil Zhenqiang Gong
+  * Duke University
+  * [Arxiv2025] https://arxiv.org/abs/2505.11717
 
 ## Data-Poisoning
 * **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** | [Github](https://github.com/umd-huang-lab/VLM-Poisoning)
