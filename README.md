@@ -315,6 +315,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Wenqi Lyu, Zerui Li, Yanyuan Qiao, Qi Wu
   * University of Adelaide
   * [Arxiv2025] https://arxiv.org/abs/2505.12443
+* **Implicit Jailbreak Attacks via Cross-Modal Information Concealment on Vision-Language Models** |  #
+  * Zhaoxin Wang, Handing Wang, Cong Tian, Yaochu Jin
+  * Xidian University, Westlake University
+  * [Arxiv2025] https://arxiv.org/abs/2505.16446
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
