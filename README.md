@@ -173,6 +173,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Hefei Mei, Zirui Wang, Shen You, Minjing Dong, Chang Xu
   * City University of Hong Kong, University of Sydney
   * [Arxiv2025] https://arxiv.org/abs/2505.17440
+* **Attention! You Vision Language Model Could Be Maliciously Manipulated** |  #
+  * Xiaosen Wang, Shaokang Wang, Zhijin Ge, Yuyang Luo, Shudong Zhang
+  * Huazhong University of Science and Technology, Shanghai Jiaotong University, Xidian University, Brown University
+  * [Arxiv2025] https://arxiv.org/abs/2505.19911
 * **X-Transfer Attacks: Towards Super Transferable Adversarial Attacks on CLIP** |  #
   * Hanxun Huang, Sarah Erfani, Yige Li, Xingjun Ma, James Bailey
   * The University of Melbourne, Singapore Management University, Fudan University
@@ -323,6 +327,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zhaoxin Wang, Handing Wang, Cong Tian, Yaochu Jin
   * Xidian University, Westlake University
   * [Arxiv2025] https://arxiv.org/abs/2505.16446
+* **VisCRA: A Visual Chain Reasoning Attack for Jailbreaking Multimodal Large Language Models** |  #
+  * Bingrui Sima, Linhua Cong, Wenxuan Wang, Kun He
+  * Huazhong University of Science and Technology, Hong Kong University of Science and Technology
+  * [Arxiv2025] https://arxiv.org/abs/2505.19684
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
