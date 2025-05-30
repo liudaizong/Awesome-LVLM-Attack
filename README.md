@@ -177,6 +177,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Xiaosen Wang, Shaokang Wang, Zhijin Ge, Yuyang Luo, Shudong Zhang
   * Huazhong University of Science and Technology, Shanghai Jiaotong University, Xidian University, Brown University
   * [Arxiv2025] https://arxiv.org/abs/2505.19911
+* **Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment** |  #
+  * Xiaojun Jia, Sensen Gao, Simeng Qin, Tianyu Pang, Chao Du, Yihao Huang, Xinfeng Li, Yiming Li, Bo Li, Yang Liu
+  * Nanyang Technological University, MBZUAI, Sea AI Lab, University of Illinois Urbana-Champaign
+  * [Arxiv2025] https://arxiv.org/abs/2505.21494
+* **Seeing the Threat: Vulnerabilities in Vision-Language Models to Adversarial Attack** |  #
+  * Juan Ren, Mark Dras, Usman Naseem
+  * Macquarie University
+  * [Arxiv2025] https://arxiv.org/abs/2505.21967
 * **X-Transfer Attacks: Towards Super Transferable Adversarial Attacks on CLIP** |  #
   * Hanxun Huang, Sarah Erfani, Yige Li, Xingjun Ma, James Bailey
   * The University of Melbourne, Singapore Management University, Fudan University
