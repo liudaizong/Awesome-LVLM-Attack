@@ -339,6 +339,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Bingrui Sima, Linhua Cong, Wenxuan Wang, Kun He
   * Huazhong University of Science and Technology, Hong Kong University of Science and Technology
   * [Arxiv2025] https://arxiv.org/abs/2505.19684
+* **Align is not Enough: Multimodal Universal Jailbreak Attack against Multimodal Large Language Models** |  #
+  * Youze Wang, Wenbo Hu, Yinpeng Dong, Jing Liu, Hanwang Zhang, Richang Hong
+  * Hefei University of Technology, Tsinghua University, Chinese Academy of Science, Nanyang Technological University
+  * [Arxiv2025] https://arxiv.org/abs/2506.01307
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
@@ -435,6 +439,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zhaoyi Liu, Huan Zhang
   * University of Illinois Urbana-Champaign
   * [Arxiv2025] https://arxiv.org/abs/2502.18290
+* **Spa-VLM: Stealthy Poisoning Attacks on RAG-based VLM** |  #
+  * Lei Yu, Yechao Zhang, Ziqi Zhou, Yang Wu, Wei Wan, Minghui Li, Shengshan Hu, Pei Xiaobing, Jing Wang
+  * Huazhong University of Science and Technology
+  * [Arxiv2025] https://arxiv.org/abs/2505.23828
 
 ## Special-Attacks-For-LVLM-Applications
 * **Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models** | 
