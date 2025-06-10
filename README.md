@@ -443,6 +443,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Lei Yu, Yechao Zhang, Ziqi Zhou, Yang Wu, Wei Wan, Minghui Li, Shengshan Hu, Pei Xiaobing, Jing Wang
   * Huazhong University of Science and Technology
   * [Arxiv2025] https://arxiv.org/abs/2505.23828
+* **Backdoor Attack on Vision Language Models with Stealthy Semantic Manipulation** |  #
+  * Zhiyuan Zhong, Zhen Sun, Yepang Liu, Xinlei He, Guanhong Tao
+  * University of Utah, Hong Kong University of Science and Technology (Guangzhou), Southern University of Science and Technology
+  * [Arxiv2025] https://arxiv.org/abs/2506.07214
 
 ## Special-Attacks-For-LVLM-Applications
 * **Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models** | 
