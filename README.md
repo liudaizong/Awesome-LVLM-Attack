@@ -185,6 +185,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Juan Ren, Mark Dras, Usman Naseem
   * Macquarie University
   * [Arxiv2025] https://arxiv.org/abs/2505.21967
+* **Imperceptible Transfer Attack on Large Vision-Language Models** |  #
+  * Xiaowen Cai, Daizong Liu, Runwei Guan, Pan Zhou
+  * Huazhong University of Science and Technology, Peking University, University of Liverpool
+  * [ICASSP2025] https://ieeexplore.ieee.org/abstract/document/10890065/
 * **X-Transfer Attacks: Towards Super Transferable Adversarial Attacks on CLIP** |  #
   * Hanxun Huang, Sarah Erfani, Yige Li, Xingjun Ma, James Bailey
   * The University of Melbourne, Singapore Management University, Fudan University
