@@ -185,6 +185,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Juan Ren, Mark Dras, Usman Naseem
   * Macquarie University
   * [Arxiv2025] https://arxiv.org/abs/2505.21967
+* **Revisiting CroPA: A Reproducibility Study and Enhancements for Cross-Prompt Adversarial Transferability in Vision-Language Models** |  #
+  * Atharv Mittal, Agam Pandey, Amritanshu Tiwari, Sukrit Jindal, Swadesh Swain
+  * Mehta Family School of Data Science and Artificial Intelligence
+  * [Arxiv2025] https://arxiv.org/abs/2506.22982
+* **CAVALRY-V: A Large-Scale Generator Framework for Adversarial Attacks on Video MLLMs** |  #
+  * Jiaming Zhang, Rui Hu, Qing Guo, Wei Yang Bryan Lim
+  * Nanyang Technological University, Beijing Jiaotong University, A*STAR
+  * [Arxiv2025] https://arxiv.org/abs/2507.00817
 * **Imperceptible Transfer Attack on Large Vision-Language Models** |  #
   * Xiaowen Cai, Daizong Liu, Runwei Guan, Pan Zhou
   * Huazhong University of Science and Technology, Peking University, University of Liverpool
