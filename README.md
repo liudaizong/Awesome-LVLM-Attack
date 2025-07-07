@@ -359,6 +359,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Lei Jiang, Zixun Zhang, Zizhou Wang, Xiaobing Sun, Zhen Li, Liangli Zhen, Xiaohua Xu
   * University of Science and Technology of China, The Chinese University of Hong Kong, A*STAR
   * [Arxiv2025] https://arxiv.org/abs/2506.16760
+* **Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection** |  #
+  * Ziqi Miao, Yi Ding, Lijun Li, Jing Shao
+  * Shanghai Artificial Intelligence Laboratory, Purdue University
+  * [Arxiv2025] https://arxiv.org/abs/2507.02844
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
