@@ -28,7 +28,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
 - [Data Poisoning](#Data-Poisoning)
 - [Special Attacks For LVLM Applications](#Special-Attacks-For-LVLM-Applications)
 
-<div align=center><img src="./img/four_attacks.png" width="80%" height="80%" /></div>
+<div align=center><img src="./img/four_attacks.png" width="90%" height="90%" /></div>
 
 ---
 
@@ -447,6 +447,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Siyuan Liang, Jiawei Liang, Tianyu Pang, Chao Du, Aishan Liu, Ee-Chien Chang, Xiaochun Cao
   * National University of Singapore, Sun Yat-sen University, Beihang University
   * [Arxiv2024] https://arxiv.org/abs/2406.18844
+* **TrojVLM: Backdoor Attack Against Vision Language Models** |  #
+  * Weimin Lyu, Lu Pang, Tengfei Ma, Haibin Ling, Chao Chen
+  * Stony Brook University
+  * [ECCV2024] https://link.springer.com/chapter/10.1007/978-3-031-73650-6_27
 * **Membership Inference Attacks against Large Vision-Language Models** | [Github](https://github.com/LIONS-EPFL/VL-MIA) 
   * Zhan Li, Yongtao Wu, Yihang Chen, Francesco Tonin, Elias Abad Rocamora, Volkan Cevher
   * University of California
@@ -455,6 +459,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yuke Hu, Zheng Li, Zhihao Liu, Yang Zhang, Zhan Qin, Kui Ren, Chun Chen
   * Zhejiang University, Shandong University, CISPA Helmholtz Center for Information Security
   * [USENIX'25] https://arxiv.org/abs/2501.18624
+* **Backdooring Vision-Language Models with Out-Of-Distribution Data** |  #
+  * Weimin Lyu, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen
+  * Stony Brook University, King Abdullah University of Science and Technology
+  * [ICLR2025] https://openreview.net/forum?id=tZozeR3VV7
 * **Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models** |  #
   * Zhaoyi Liu, Huan Zhang
   * University of Illinois Urbana-Champaign
