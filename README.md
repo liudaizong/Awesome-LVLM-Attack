@@ -27,6 +27,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
 - [Prompt Injection](#Prompt-Injection)
 - [Data Poisoning](#Data-Poisoning)
 - [Special Attacks For LVLM Applications](#Special-Attacks-For-LVLM-Applications)
+- [Benchmarks](#Benchmarks)
 
 <div align=center><img src="./img/four_attacks.png" width="90%" height="90%" /></div>
 
@@ -541,3 +542,9 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yaling Shen, Zhixiong Zhuang, Kun Yuan, Maria-Irina Nicolae, Nassir Navab, Nicolas Padoy, Mario Fritz
   * Bosch Center for Artificial Intelligence, Technical University of Munich, Munich Center for Machine Learning, Saarland University, University of Strasbourg, IHU Strasbourg, CISPA Helmholtz Center for Information Security
   * [Arxiv2025] https://arxiv.org/abs/2502.02438
+
+## Benchmarks
+* **Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study** | 
+  * DongGeon Lee, Joonwon Jang, Jihae Jeong, Hwanjo Yu
+  * POSTECH, LG AI Research
+  * [Arxiv2025] https://arxiv.org/abs/2505.15389
