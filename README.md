@@ -542,9 +542,13 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yaling Shen, Zhixiong Zhuang, Kun Yuan, Maria-Irina Nicolae, Nassir Navab, Nicolas Padoy, Mario Fritz
   * Bosch Center for Artificial Intelligence, Technical University of Munich, Munich Center for Machine Learning, Saarland University, University of Strasbourg, IHU Strasbourg, CISPA Helmholtz Center for Information Security
   * [Arxiv2025] https://arxiv.org/abs/2502.02438
+* **Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives** | [Github](https://github.com/drive-bench/toolkit)   #
+  * Shaoyuan Xie, Lingdong Kong, Yuhao Dong, Chonghao Sima, Wenwei Zhang, Qi Alfred Chen, Ziwei Liu, Liang Pan
+  * University of California, Shanghai AI Laboratory, National University of Singapore, Nanyang Technological University, The University of Hong Kong
+  * [ICCV2025] https://arxiv.org/abs/2501.04003
 
 ## Benchmarks
-* **Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study** | 
+* **Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study** |   #
   * DongGeon Lee, Joonwon Jang, Jihae Jeong, Hwanjo Yu
   * POSTECH, LG AI Research
   * [Arxiv2025] https://arxiv.org/abs/2505.15389
