@@ -194,6 +194,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Jiaming Zhang, Rui Hu, Qing Guo, Wei Yang Bryan Lim
   * Nanyang Technological University, Beijing Jiaotong University, A*STAR
   * [Arxiv2025] https://arxiv.org/abs/2507.00817
+* **RECALLED: An Unbounded Resource Consumption Attack on Large Vision-Language Models** |  #
+  * Haoran Gao, Yuanhe Zhang, Zhenhong Zhou, Lei Jiang, Fanyu Meng, Yujia Xiao, Kun Wang, Yang Liu, Junlan Feng
+  * China Mobile Research Institute, Beijing University of Posts and Telecommunications, Nanyang Technological University, University of Science and Technology of China
+  * [Arxiv2025] https://arxiv.org/abs/2507.18053
 * **Imperceptible Transfer Attack on Large Vision-Language Models** |  #
   * Xiaowen Cai, Daizong Liu, Runwei Guan, Pan Zhou
   * Huazhong University of Science and Technology, Peking University, University of Liverpool
@@ -364,6 +368,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Ziqi Miao, Yi Ding, Lijun Li, Jing Shao
   * Shanghai Artificial Intelligence Laboratory, Purdue University
   * [Arxiv2025] https://arxiv.org/abs/2507.02844
+* **PRISM: Programmatic Reasoning with Image Sequence Manipulation for LVLM Jailbreaking** |  #
+  * Quanchen Zou, Zonghao Ying, Moyang Chen, Wenzhuo Xu, Yisong Xiao, Yakai Li, Deyue Zhang, Dongdong Yang, Zhao Liu, Xiangzheng Zhang
+  * 360 AI Security Lab, Beihang University, Wenzhou-Kean University, University of the Chinese Academy of Sciences
+  * [Arxiv2025] https://arxiv.org/abs/2507.21540
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
@@ -422,6 +430,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Xilong Wang, John Bloch, Zedian Shao, Yuepeng Hu, Shuyan Zhou, Neil Zhenqiang Gong
   * Duke University
   * [Arxiv2025] https://arxiv.org/abs/2505.11717
+* **Invisible Injections: Exploiting Vision-Language Models Through Steganographic Prompt Embedding** |  #
+  * Chetan Pathade
+  * CMU
+  * [Arxiv2025] https://arxiv.org/abs/2507.22304
 
 ## Data-Poisoning
 * **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** | [Github](https://github.com/umd-huang-lab/VLM-Poisoning)
