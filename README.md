@@ -372,6 +372,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Quanchen Zou, Zonghao Ying, Moyang Chen, Wenzhuo Xu, Yisong Xiao, Yakai Li, Deyue Zhang, Dongdong Yang, Zhao Liu, Xiangzheng Zhang
   * 360 AI Security Lab, Beihang University, Wenzhou-Kean University, University of the Chinese Academy of Sciences
   * [Arxiv2025] https://arxiv.org/abs/2507.21540
+* **JPS: Jailbreak Multimodal Large Language Models with Collaborative Visual Perturbation and Textual Steering** |  #
+  * Renmiao Chen, Shiyao Cui, Xuancheng Huang, Chengwei Pan, Victor Shea-Jay Huang, QingLin Zhang, Xuan Ouyang, Zhexin Zhang, Hongning Wang, Minlie Huang
+  * Tsinghua University, Beihang University
+  * [Arxiv2025] https://arxiv.org/abs/2508.05087
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
@@ -554,6 +558,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yaling Shen, Zhixiong Zhuang, Kun Yuan, Maria-Irina Nicolae, Nassir Navab, Nicolas Padoy, Mario Fritz
   * Bosch Center for Artificial Intelligence, Technical University of Munich, Munich Center for Machine Learning, Saarland University, University of Strasbourg, IHU Strasbourg, CISPA Helmholtz Center for Information Security
   * [Arxiv2025] https://arxiv.org/abs/2502.02438
+* **PhysPatch: A Physically Realizable and Transferable Adversarial Patch Attack for Multimodal Large Language Models-based Autonomous Driving Systems** |    #
+  * Qi Guo, Xiaojun Jia, Shanmin Pang, Simeng Qin, Lin Wang, Ju Jia, Yang Liu, Qing Guo
+  * Xi’an Jiaotong University, Nanyang Technological University, Northeastern University, Hangzhou Dianzi University, Southeast University, A*STAR
+  * [Arxiv2025] https://arxiv.org/abs/2508.05167
 * **Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives** | [Github](https://github.com/drive-bench/toolkit)   #
   * Shaoyuan Xie, Lingdong Kong, Yuhao Dong, Chonghao Sima, Wenwei Zhang, Qi Alfred Chen, Ziwei Liu, Liang Pan
   * University of California, Shanghai AI Laboratory, National University of Singapore, Nanyang Technological University, The University of Hong Kong
