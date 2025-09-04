@@ -568,7 +568,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * [ICCV2025] https://arxiv.org/abs/2501.04003
 
 ## Benchmarks
-* **Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study** |   #
+* **Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study** | [Github](https://github.com/oneonlee/Meme-Safety-Bench)   #
   * DongGeon Lee, Joonwon Jang, Jihae Jeong, Hwanjo Yu
   * POSTECH, LG AI Research
-  * [Arxiv2025] https://arxiv.org/abs/2505.15389
+  * [EMNLP2025] https://arxiv.org/abs/2505.15389
