@@ -206,6 +206,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Hanxun Huang, Sarah Erfani, Yige Li, Xingjun Ma, James Bailey
   * The University of Melbourne, Singapore Management University, Fudan University
   * [ICML2025] https://arxiv.org/abs/2505.05528
+* **Phi: Preference Hijacking in Multi-modal Large Language Models at Inference Time** |  #
+  * Yifan Lan, Yuanpu Cao, Weitong Zhang, Lu Lin, Jinghui Chen
+  * The Pennsylvania State University, The University of North Carolina at Chapel Hill
+  * [EMNLP2025] https://arxiv.org/abs/2509.12521
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
