@@ -380,6 +380,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Renmiao Chen, Shiyao Cui, Xuancheng Huang, Chengwei Pan, Victor Shea-Jay Huang, QingLin Zhang, Xuan Ouyang, Zhexin Zhang, Hongning Wang, Minlie Huang
   * Tsinghua University, Beihang University
   * [Arxiv2025] https://arxiv.org/abs/2508.05087
+* **FORCE: Transferable Visual Jailbreaking Attacks via Feature Over-Reliance Correction** |  #
+  * Runqi Lin, Alasdair Paren, Suqin Yuan, Muyang Li, Philip Torr, Adel Bibi, Tongliang Liu
+  * The University of Sydney, University of Oxford
+  * [Arxiv2025] https://arxiv.org/abs/2509.21029
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
@@ -496,6 +500,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zhiyuan Zhong, Zhen Sun, Yepang Liu, Xinlei He, Guanhong Tao
   * University of Utah, Hong Kong University of Science and Technology (Guangzhou), Southern University of Science and Technology
   * [Arxiv2025] https://arxiv.org/abs/2506.07214
+* **Poisoning Prompt-Guided Sampling in Video Large Language Models** |  #
+  * Yuxin Cao, Wei Song, Jingling Xue, Jin Song Dong
+  * National University of Singapore, University of New South Wales, CSIRO’s Data61
+  * [Arxiv2025] https://arxiv.org/abs/2509.20851
 
 ## Special-Attacks-For-LVLM-Applications
 * **Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models** | 
@@ -566,6 +574,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Qi Guo, Xiaojun Jia, Shanmin Pang, Simeng Qin, Lin Wang, Ju Jia, Yang Liu, Qing Guo
   * Xi’an Jiaotong University, Nanyang Technological University, Northeastern University, Hangzhou Dianzi University, Southeast University, A*STAR
   * [Arxiv2025] https://arxiv.org/abs/2508.05167
+* **Universal Camouflage Attack on Vision-Language Models for Autonomous Driving** |    #
+  * Dehong Kong, Sifan Yu, Siyuan Liang, Jiawei Liang, Jianhou Gan, Aishan Liu, Wenqi Ren
+  * SUN YAT-SEN UNIVERSITY, National University of Singapore, Yunnan Normal University, Beihang University
+  * [Arxiv2025] https://arxiv.org/abs/2509.20196
+* **FreezeVLA: Action-Freezing Attacks against Vision-Language-Action Models** |    #
+  * Xin Wang, Jie Li, Zejia Weng, Yixu Wang, Yifeng Gao, Tianyu Pang, Chao Du, Yan Teng, Yingchun Wang, Zuxuan Wu, Xingjun Ma, Yu-Gang Jiang
+  * Fudan University, Shanghai AI Lab, Sea AI Lab
+  * [Arxiv2025] https://arxiv.org/abs/2509.19870
 * **Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives** | [Github](https://github.com/drive-bench/toolkit)   #
   * Shaoyuan Xie, Lingdong Kong, Yuhao Dong, Chonghao Sima, Wenwei Zhang, Qi Alfred Chen, Ziwei Liu, Liang Pan
   * University of California, Shanghai AI Laboratory, National University of Singapore, Nanyang Technological University, The University of Hong Kong
@@ -576,3 +592,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * DongGeon Lee, Joonwon Jang, Jihae Jeong, Hwanjo Yu
   * POSTECH, LG AI Research
   * [EMNLP2025] https://arxiv.org/abs/2505.15389
+* **Benchmarking Gaslighting Attacks Against Speech Large Language Models** |  #
+  * Jinyang Wu, Bin Zhu, Xiandong Zou, Qiquan Zhang, Xu Fang, Pan Zhou
+  * Singapore Management University, Tongyi Speech Lab, Dalian University of Technology
+  * [Arxiv2025] https://arxiv.org/abs/2509.19858
