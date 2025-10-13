@@ -384,6 +384,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Runqi Lin, Alasdair Paren, Suqin Yuan, Muyang Li, Philip Torr, Adel Bibi, Tongliang Liu
   * The University of Sydney, University of Oxford
   * [Arxiv2025] https://arxiv.org/abs/2509.21029
+* **Effective and Stealthy One-Shot Jailbreaks on Deployed Mobile Vision-Language Agents** |  #
+  * Renhua Ding, Xiao Yang, Zhengwei Fang, Jun Luo, Kun He, Jun Zhu
+  * Huazhong University of Science and Technology, Tsinghua University
+  * [Arxiv2025] https://arxiv.org/abs/2510.07809
+* **Untargeted Jailbreak Attack** |  #
+  * Xinzhe Huang, Wenjing Hu, Tianhang Zheng, Kedong Xiu, Xiaojun Jia, Di Wang, Zhan Qin, Kui Ren
+  * Zhejiang University, Nanjing University of Science and Technology, Nanyang Technological University, King Abdullah University of Science and Technology
+  * [Arxiv2025] https://arxiv.org/abs/2510.02999
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
@@ -446,6 +454,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Chetan Pathade
   * CMU
   * [Arxiv2025] https://arxiv.org/abs/2507.22304
+* **AgentTypo: Adaptive Typographic Prompt Injection Attacks against Black-box Multimodal Agents** |  #
+  * Yanjie Li, Yiming Cao, Dong Wang, Bin Xiao
+  * Hong Kong Polytechnic University, 
+  * [Arxiv2025] https://arxiv.org/abs/2510.04257
 
 ## Data-Poisoning
 * **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** | [Github](https://github.com/umd-huang-lab/VLM-Poisoning)
