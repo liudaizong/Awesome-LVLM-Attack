@@ -8,7 +8,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
 
 [A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends](https://arxiv.org/abs/2407.07403)
 
-> If you find some important work missed, it would be super helpful to let me know (`dzliu@stu.pku.edu.cn`). Thanks!
+> If you find some important work missed, it would be super helpful to let me know (`daizongliu@whu.edu.cn`). Thanks!
 
 > If you find our survey useful for your research, please consider citing:
 
@@ -198,6 +198,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Haoran Gao, Yuanhe Zhang, Zhenhong Zhou, Lei Jiang, Fanyu Meng, Yujia Xiao, Kun Wang, Yang Liu, Junlan Feng
   * China Mobile Research Institute, Beijing University of Posts and Telecommunications, Nanyang Technological University, University of Science and Technology of China
   * [Arxiv2025] https://arxiv.org/abs/2507.18053
+* **Model-agnostic Adversarial Attack and Defense for Vision-Language-Action Models** |  #
+  * Haochuan Xu, Yun Sing Koh, Shuhuai Huang, Zirun Zhou, Di Wang, Jun Sakuma, Jingfeng Zhang
+  * The University of Auckland, King Abdullah University of Science and Technology, Tokyo University of Science, RIKEN Center for Advanced Intelligence Project
+  * [Arxiv2025] https://arxiv.org/abs/2510.13237
 * **Imperceptible Transfer Attack on Large Vision-Language Models** |  #
   * Xiaowen Cai, Daizong Liu, Runwei Guan, Pan Zhou
   * Huazhong University of Science and Technology, Peking University, University of Liverpool
@@ -516,6 +520,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yuxin Cao, Wei Song, Jingling Xue, Jin Song Dong
   * National University of Singapore, University of New South Wales, CSIRO’s Data61
   * [Arxiv2025] https://arxiv.org/abs/2509.20851
+* **TabVLA: Targeted Backdoor Attacks on Vision-Language-Action Models** |  #
+  * Zonghuan Xu, Xiang Zheng, Xingjun Ma, Yu-Gang Jiang
+  * Fudan University, City University of Hong Kong
+  * [Arxiv2025] https://arxiv.org/abs/2510.10932
 
 ## Special-Attacks-For-LVLM-Applications
 * **Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models** | 
@@ -594,6 +602,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Xin Wang, Jie Li, Zejia Weng, Yixu Wang, Yifeng Gao, Tianyu Pang, Chao Du, Yan Teng, Yingchun Wang, Zuxuan Wu, Xingjun Ma, Yu-Gang Jiang
   * Fudan University, Shanghai AI Lab, Sea AI Lab
   * [Arxiv2025] https://arxiv.org/abs/2509.19870
+* **Model-agnostic Adversarial Attack and Defense for Vision-Language-Action Models** |  #
+  * Haochuan Xu, Yun Sing Koh, Shuhuai Huang, Zirun Zhou, Di Wang, Jun Sakuma, Jingfeng Zhang
+  * The University of Auckland, King Abdullah University of Science and Technology, Tokyo University of Science, RIKEN Center for Advanced Intelligence Project
+  * [Arxiv2025] https://arxiv.org/abs/2510.13237
+* **TabVLA: Targeted Backdoor Attacks on Vision-Language-Action Models** |  #
+  * Zonghuan Xu, Xiang Zheng, Xingjun Ma, Yu-Gang Jiang
+  * Fudan University, City University of Hong Kong
+  * [Arxiv2025] https://arxiv.org/abs/2510.10932
 * **Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives** | [Github](https://github.com/drive-bench/toolkit)   #
   * Shaoyuan Xie, Lingdong Kong, Yuhao Dong, Chonghao Sima, Wenwei Zhang, Qi Alfred Chen, Ziwei Liu, Liang Pan
   * University of California, Shanghai AI Laboratory, National University of Singapore, Nanyang Technological University, The University of Hong Kong
