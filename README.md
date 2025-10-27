@@ -396,6 +396,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Xinzhe Huang, Wenjing Hu, Tianhang Zheng, Kedong Xiu, Xiaojun Jia, Di Wang, Zhan Qin, Kui Ren
   * Zhejiang University, Nanjing University of Science and Technology, Nanyang Technological University, King Abdullah University of Science and Technology
   * [Arxiv2025] https://arxiv.org/abs/2510.02999
+* **Enhanced MLLM Black-Box Jailbreaking Attacks and Defenses** |  #
+  * Xingwei Zhong, Kar Wai Fok, Vrizlynn L.L. Thing
+  * Cybersecurity Strategic Technology Centre
+  * [Arxiv2025] https://arxiv.org/abs/2510.21214
+* **Beyond Text: Multimodal Jailbreaking of Vision-Language and Audio Models through Perceptually Simple Transformations** |  #
+  * Divyanshu Kumar, Shreyas Jena, Nitin Aravind Birur, Tanay Baswa, Sahil Agarwal, Prashanth Harshangi
+  * Enkrypt AI
+  * [Arxiv2025] https://arxiv.org/abs/2510.20223
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
