@@ -532,6 +532,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zonghuan Xu, Xiang Zheng, Xingjun Ma, Yu-Gang Jiang
   * Fudan University, City University of Hong Kong
   * [Arxiv2025] https://arxiv.org/abs/2510.10932
+* **Visual Backdoor Attacks on MLLM Embodied Decision Making via Contrastive Trigger Learning** |  #
+  * Qiusi Zhan, Hyeonjeong Ha, Rui Yang, Sirui Xu, Hanyang Chen, Liang-Yan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang
+  * University of Illinois Urbana-Champaign
+  * [Arxiv2025] https://arxiv.org/abs/2510.27623
 
 ## Special-Attacks-For-LVLM-Applications
 * **Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models** | 
@@ -618,6 +622,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zonghuan Xu, Xiang Zheng, Xingjun Ma, Yu-Gang Jiang
   * Fudan University, City University of Hong Kong
   * [Arxiv2025] https://arxiv.org/abs/2510.10932
+* **Visual Backdoor Attacks on MLLM Embodied Decision Making via Contrastive Trigger Learning** |  #
+  * Qiusi Zhan, Hyeonjeong Ha, Rui Yang, Sirui Xu, Hanyang Chen, Liang-Yan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang
+  * University of Illinois Urbana-Champaign
+  * [Arxiv2025] https://arxiv.org/abs/2510.27623
 * **Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives** | [Github](https://github.com/drive-bench/toolkit)   #
   * Shaoyuan Xie, Lingdong Kong, Yuhao Dong, Chonghao Sima, Wenwei Zhang, Qi Alfred Chen, Ziwei Liu, Liang Pan
   * University of California, Shanghai AI Laboratory, National University of Singapore, Nanyang Technological University, The University of Hong Kong
