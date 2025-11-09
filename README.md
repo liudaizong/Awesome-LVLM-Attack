@@ -214,6 +214,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yifan Lan, Yuanpu Cao, Weitong Zhang, Lu Lin, Jinghui Chen
   * The Pennsylvania State University, The University of North Carolina at Chapel Hill
   * [EMNLP2025] https://arxiv.org/abs/2509.12521
+* **Towards Building Model/Prompt-Transferable Attackers against Large Vision-Language Models** |  #
+  * Xiaowen Cai, Daizong Liu, Xiaoye Qu, Xiang Fang, Jianfeng Dong, Keke Tang, Pan Zhou, Lichao Sun, Wei Hu
+  * Huazhong University of Science and Technology, Wuhan University, Nanyang Technological University, Zhejiang Gongshang University, Guangzhou University, Lehigh University, Peking University
+  * [NeurIPS2025] https://openreview.net/pdf?id=TyW1V1KukG
+* **Fit the Distribution: Cross-Image/Prompt Adversarial Attacks on Multimodal Large Language Models** |  #
+  * Hai Yan, Haijian Ma, Xiaowen Cai, Daizong Liu, Zenghui Yuan, Xiaoye Qu, Jianfeng Dong, Runwei Guan, Xiang Fang, Hongyang He, Yulai Xie, Pan Zhou
+  * Huazhong University of Science and Technology, Wuhan University, Zhejiang Gongshang University, The Hong Kong University of Science and Technology, Nanyang Technological University, University of Warwick
+  * [NeurIPS2025] https://openreview.net/pdf?id=kn0AyMYw0v
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
