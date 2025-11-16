@@ -412,6 +412,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Divyanshu Kumar, Shreyas Jena, Nitin Aravind Birur, Tanay Baswa, Sahil Agarwal, Prashanth Harshangi
   * Enkrypt AI
   * [Arxiv2025] https://arxiv.org/abs/2510.20223
+* **Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard** |  #
+  * Yudong Yang, Xuezhen Zhang, Zhifeng Han, Siyin Wang, Jimin Zhuang, Zengrui Jin, Jing Shao, Guangzhi Sun, Chao Zhang
+  * Tsinghua University, Shanghai Artificial Intelligence Laboratory, University of Cambridge
+  * [Arxiv2025] https://arxiv.org/abs/2511.10222
+* **Why does weak-OOD help? A Further Step Towards Understanding Jailbreaking VLMs** |  #
+  * Yuxuan Zhou, Yuzhao Peng, Yang Bai, Kuofeng Gao, Yihao Zhang, Yechao Zhang, Xun Chen, Tao Yu, Tao Dai, Shu-Tao Xia
+  * Tsinghua University, ByteDance, Peking University, Nanyang Technological University, CASIA, Shenzhen University
+  * [Arxiv2025] https://arxiv.org/abs/2511.08367
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
@@ -544,6 +552,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Qiusi Zhan, Hyeonjeong Ha, Rui Yang, Sirui Xu, Hanyang Chen, Liang-Yan Gui, Yu-Xiong Wang, Huan Zhang, Heng Ji, Daniel Kang
   * University of Illinois Urbana-Champaign
   * [Arxiv2025] https://arxiv.org/abs/2510.27623
+* **MTAttack: Multi-Target Backdoor Attacks against Large Vision-Language Models** |  #
+  * Zihan Wang, Guansong Pang, Wenjun Miao, Jin Zheng, Xiao Bai
+  * Beihang University, Singapore Management University
+  * [Arxiv2025] https://arxiv.org/abs/2511.10098
 
 ## Special-Attacks-For-LVLM-Applications
 * **Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models** | 
@@ -638,6 +650,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Shaoyuan Xie, Lingdong Kong, Yuhao Dong, Chonghao Sima, Wenwei Zhang, Qi Alfred Chen, Ziwei Liu, Liang Pan
   * University of California, Shanghai AI Laboratory, National University of Singapore, Nanyang Technological University, The University of Hong Kong
   * [ICCV2025] https://arxiv.org/abs/2501.04003
+* **JPRO: Automated Multimodal Jailbreaking via Multi-Agent Collaboration Framework** |  #
+  * Yuxuan Zhou, Yang Bai, Kuofeng Gao, Tao Dai, Shu-Tao Xia
+  * Tsinghua University, Shenzhen University, ByteDance
+  * [Arxiv2025] https://arxiv.org/abs/2511.07315
 
 ## Benchmarks
 * **Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study** | [Github](https://github.com/oneonlee/Meme-Safety-Bench)   #
