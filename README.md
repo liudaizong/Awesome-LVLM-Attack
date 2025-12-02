@@ -202,6 +202,18 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Haochuan Xu, Yun Sing Koh, Shuhuai Huang, Zirun Zhou, Di Wang, Jun Sakuma, Jingfeng Zhang
   * The University of Auckland, King Abdullah University of Science and Technology, Tokyo University of Science, RIKEN Center for Advanced Intelligence Project
   * [Arxiv2025] https://arxiv.org/abs/2510.13237
+* **V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs** |  #
+  * Sen Nie, Jie Zhang, Jianxin Yan, Shiguang Shan, Xilin Chen
+  * Chinese Academy of Sciences, University of Chinese Academy of Sciences, Zhejiang University
+  * [Arxiv2025] https://arxiv.org/abs/2511.20223
+* **Adversarial Confusion Attack: Disrupting Multimodal Large Language Models** |  #
+  * Jakub Hoscilowicz, Artur Janicki
+  * Warsaw University of Technology
+  * [Arxiv2025] https://arxiv.org/abs/2511.20494
+* **When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models** |  #
+  * Yuping Yan, Yuhan Xie, Yixin Zhang, Lingjuan Lyu, Handing Wang, Yaochu Jin
+  * Westlake University, Pennsylvania State University, Sony Research, Xidian University
+  * [Arxiv2025] https://arxiv.org/abs/2511.16203
 * **Imperceptible Transfer Attack on Large Vision-Language Models** |  #
   * Xiaowen Cai, Daizong Liu, Runwei Guan, Pan Zhou
   * Huazhong University of Science and Technology, Peking University, University of Liverpool
@@ -420,6 +432,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yuxuan Zhou, Yuzhao Peng, Yang Bai, Kuofeng Gao, Yihao Zhang, Yechao Zhang, Xun Chen, Tao Yu, Tao Dai, Shu-Tao Xia
   * Tsinghua University, ByteDance, Peking University, Nanyang Technological University, CASIA, Shenzhen University
   * [Arxiv2025] https://arxiv.org/abs/2511.08367
+* **Jailbreaking Large Vision Language Models in Intelligent Transportation Systems** |  #
+  * Badhan Chandra Das, Md Tasnim Jawad, Md Jueal Mia, M. Hadi Amini, Yanzhao Wu
+  * Florida International University
+  * [Arxiv2025] https://arxiv.org/abs/2511.13892
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
@@ -664,3 +680,11 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Jinyang Wu, Bin Zhu, Xiandong Zou, Qiquan Zhang, Xu Fang, Pan Zhou
   * Singapore Management University, Tongyi Speech Lab, Dalian University of Technology
   * [Arxiv2025] https://arxiv.org/abs/2509.19858
+* **AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models** |  #
+  * Jiayu Li, Yunhan Zhao, Xiang Zheng, Zonghuan Xu, Yige Li, Xingjun Ma, Yu-Gang Jiang
+  * Fudan University, City University of Hong Kong, Singapore Management University
+  * [Arxiv2025] https://arxiv.org/abs/2511.12149
+* **BackdoorVLM: A Benchmark for Backdoor Attacks on Vision-Language Models** |  #
+  * Juncheng Li, Yige Li, Hanxun Huang, Yunhao Chen, Xin Wang, Yixu Wang, Xingjun Ma, Yu-Gang Jiang
+  * Fudan University, Singapore Management University, The University of Melbourne
+  * [Arxiv2025] https://arxiv.org/abs/2511.18921
