@@ -436,6 +436,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Badhan Chandra Das, Md Tasnim Jawad, Md Jueal Mia, M. Hadi Amini, Yanzhao Wu
   * Florida International University
   * [Arxiv2025] https://arxiv.org/abs/2511.13892
+* **VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack** |  #
+  * Shiji Zhao, Shukun Xiong, Yao Huang, Yan Jin, Zhenyu Wu, Jiyang Guan, Ranjie Duan, Jialing Tao, Hui Xue, Xingxing Wei
+  * Beihang University
+  * [Arxiv2025] https://arxiv.org/abs/2512.05853
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
