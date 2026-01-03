@@ -13,11 +13,12 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
 > If you find our survey useful for your research, please consider citing:
 
 ```
-@article{liu2024attack,
-  title={A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends},
+@article{liu2025survey,
+  title={A survey of attacks on large vision--language models: Resources, advances, and future trends},
   author={Liu, Daizong and Yang, Mingyu and Qu, Xiaoye and Zhou, Pan and Cheng, Yu and Hu, Wei},
-  journal={arXiv preprint arXiv:2407.07403},
-  year={2024}
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
@@ -372,6 +373,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yi Nian, Shenzhe Zhu, Yuehan Qin, Li Li, Ziyi Wang, Chaowei Xiao, Yue Zhao
   * University of Southern California, University of Toronto, University of Maryland, University of Wisconsin-Madison
   * [Arxiv2025] https://arxiv.org/abs/2504.03770
+* **PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization** | #
+  * Yidan Wang, Yanan Cao, Yubing Ren, Fang Fang, Zheng Lin, Binxing Fang
+  * Institute of Information Engineering, Chinese Academy of Sciences, School of Cyber Security, University of Chinese Academy of Sciences, Cyberspace Institute of Advanced Technology, Guangzhou University
+  * [ACL 2025] https://aclanthology.org/2025.acl-long.475/
 * **BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation** |  #
   * Wenqi Lyu, Zerui Li, Yanyuan Qiao, Qi Wu
   * University of Adelaide
@@ -416,6 +421,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Xinzhe Huang, Wenjing Hu, Tianhang Zheng, Kedong Xiu, Xiaojun Jia, Di Wang, Zhan Qin, Kui Ren
   * Zhejiang University, Nanjing University of Science and Technology, Nanyang Technological University, King Abdullah University of Science and Technology
   * [Arxiv2025] https://arxiv.org/abs/2510.02999
+* **VisualDAN: Exposing Vulnerabilities in VLMs with Visual-Driven DAN Commands** | #
+  * Aofan Liu, Lulu Tang
+  * Beijing Academy of Artificial Intelligence
+  * [Arxiv2025] http://arxiv.org/abs/2510.09699
 * **Enhanced MLLM Black-Box Jailbreaking Attacks and Defenses** |  #
   * Xingwei Zhong, Kar Wai Fok, Vrizlynn L.L. Thing
   * Cybersecurity Strategic Technology Centre
@@ -440,6 +449,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Shiji Zhao, Shukun Xiong, Yao Huang, Yan Jin, Zhenyu Wu, Jiyang Guan, Ranjie Duan, Jialing Tao, Hui Xue, Xingxing Wei
   * Beihang University
   * [Arxiv2025] https://arxiv.org/abs/2512.05853
+* **Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring** |  #
+  * Peichun Hua, Hao Li, Shanghao Shi, Zhiyuan Yu, Ning Zhang
+  * Washington University in St. Louis, Texas A&M University
+  * [Arxiv2025] https://arxiv.org/abs/2512.12069
+* **How to Trick Your AI TA: A Systematic Study of Academic Jailbreaking in LLM Code Evaluation** | #
+  * Devanshu Sahoo, Vasudev Majhi, Arjun Neekhra, Yash Sinha, Murari Mandal, Dhruv Kumar
+  * BITS Pilani, KIIT University
+  * [Arxiv2025] http://arxiv.org/abs/2512.10415
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
