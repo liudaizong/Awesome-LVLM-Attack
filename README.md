@@ -235,6 +235,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Hai Yan, Haijian Ma, Xiaowen Cai, Daizong Liu, Zenghui Yuan, Xiaoye Qu, Jianfeng Dong, Runwei Guan, Xiang Fang, Hongyang He, Yulai Xie, Pan Zhou
   * Huazhong University of Science and Technology, Wuhan University, Zhejiang Gongshang University, The Hong Kong University of Science and Technology, Nanyang Technological University, University of Warwick
   * [NeurIPS2025] https://openreview.net/pdf?id=kn0AyMYw0v
+* **On the Adversarial Robustness of 3D Large Vision-Language Models** |  #
+  * Chao Liu, Ngai-Man Cheung
+  * Singapore University of Technology and Design
+  * [Arxiv2026] https://arxiv.org/abs/2601.06464
+* **Crafting Adversarial Inputs for Large Vision-Language Models Using Black-Box Optimization** |  #
+  * Jiwei Guan, Haibo Jin, Haohan Wang
+  * Macquarie University, University of Illinois Urbana-Champaign
+  * [Arxiv2026] https://arxiv.org/abs/2601.01747
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
@@ -457,6 +465,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Devanshu Sahoo, Vasudev Majhi, Arjun Neekhra, Yash Sinha, Murari Mandal, Dhruv Kumar
   * BITS Pilani, KIIT University
   * [Arxiv2025] http://arxiv.org/abs/2512.10415
+* **Multi-turn Jailbreaking Attack in Multi-Modal Large Language Models** | #
+  * Badhan Chandra Das, Md Tasnim Jawad, Joaquin Molto, M. Hadi Amini, Yanzhao Wu
+  * Florida International University
+  * [Arxiv2026] https://arxiv.org/abs/2601.05339
+* **GAMBIT: A Gamified Jailbreak Framework for Multimodal Large Language Models** | #
+  * Xiangdong Hu, Yangyang Jiang, Qin Hu, Xiaojun Jia
+  * Georgia State University, Nanyang Technological University
+  * [Arxiv2026] https://arxiv.org/abs/2601.03416
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
