@@ -243,6 +243,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Jiwei Guan, Haibo Jin, Haohan Wang
   * Macquarie University, University of Illinois Urbana-Champaign
   * [Arxiv2026] https://arxiv.org/abs/2601.01747
+* **Hierarchical Refinement of Universal Multimodal Attacks on Vision-Language Models** |  #
+  * Peng-Fei Zhang, Zi Huang
+  * University of Queensland
+  * [Arxiv2026] https://arxiv.org/abs/2601.10313
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
@@ -537,8 +541,12 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * [Arxiv2025] https://arxiv.org/abs/2507.22304
 * **AgentTypo: Adaptive Typographic Prompt Injection Attacks against Black-box Multimodal Agents** |  #
   * Yanjie Li, Yiming Cao, Dong Wang, Bin Xiao
-  * Hong Kong Polytechnic University, 
+  * Hong Kong Polytechnic University
   * [Arxiv2025] https://arxiv.org/abs/2510.04257
+* **Physical Prompt Injection Attacks on Large Vision-Language Models** |  #
+  * Chen Ling, Kai Hu, Hangcheng Liu, Xingshuo Han, Tianwei Zhang, Changhai Ou
+  * Wuhan University, Nanyang Technological University, Nanjing University of Aeronautics and Astronautics
+  * [Arxiv2026] https://arxiv.org/abs/2601.17383
 
 ## Data-Poisoning
 * **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** | [Github](https://github.com/umd-huang-lab/VLM-Poisoning)
