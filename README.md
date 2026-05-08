@@ -263,6 +263,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yingying Zhao, Chengyin Hu, Qike Zhang, Xin Li, Xin Wang, Yiwei Wei, Jiujiang Guo, Jiahuan Long, Tingsong Jiang, Wen Yao
   * n/a
   * [Arxiv2026] https://arxiv.org/abs/2604.12833
+* **VisInject: Disruption != Injection -- A Dual-Dimension Evaluation of Universal Adversarial Attacks on Vision-Language Models** |  #
+  * Pang Liu, Yingjie Lao
+  * Tufts University
+  * [Arxiv2026] https://arxiv.org/abs/2605.01449
+* **When Background Matters: Breaking Medical Vision Language Models by Transferable Attack** |  #
+  * Akash Ghosh, Subhadip Baidya, Sriparna Saha, Xiuying Chen
+  * Indian Institute of Technology Patna, Indian Institute of Technology Kanpur, MBZUAI
+  * [Arxiv2026] https://arxiv.org/abs/2604.17318
 * **Are Large Vision-Language Models Robust to Adversarial Visual Transformations?** |  #
   * Daizong Liu, Xiaowen Cai, Pan Zhou, Xiaoye Qu, Lichao Sun, Wei Hu
   * Wuhan University, Huazhong University of Science and Technology, Lehigh University, Peking University
@@ -783,6 +791,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Junxian Li, Tu Lan, Haozhen Tan, Yan Meng, Haojin Zhu
   * Shanghai Jiao Tong University
   * [Arxiv2026] https://arxiv.org/abs/2603.08316
+* **SIF: Semantically In-Distribution Fingerprints for Large Vision-Language Models** |  #
+  * Yifei Zhao, Qian Lou, Mengxin Zheng
+  * University of Central Florida
+  * [Arxiv2026] https://arxiv.org/abs/2604.17041
 
 ## Benchmarks
 * **Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study** | [Github](https://github.com/oneonlee/Meme-Safety-Bench)   #
