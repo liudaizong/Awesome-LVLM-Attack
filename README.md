@@ -817,3 +817,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Youting Wang, Yuan Tang, Yitian Qian, Chen Zhao
   * Northeastern University, Carnegie Mellon University, Boston University, New York University
   * [Arxiv2026] https://arxiv.org/abs/2603.13385
+* **MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs** | [Github](https://github.com/chenyil6/MVI-Bench)  #
+  * Huiyi Chen, Jiawei Peng, Dehai Min, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, Lu Cheng
+  * UIUC, UIC, Southeast University
+  * [ICML2026] https://arxiv.org/abs/2511.14159
