@@ -267,6 +267,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Pang Liu, Yingjie Lao
   * Tufts University
   * [Arxiv2026] https://arxiv.org/abs/2605.01449
+* **Adversarial Attacks Against MLLMs via Progressive Resolution Processing and Adaptive Feature Alignment** |  #
+  * Haobo Wang, Xiaorong Ma, Weiqi Luo, Xiaojun Jia, Jiwu Huang
+  * Sun Yat-sen University, Nanyang Technological University, Shenzhen MSU-BIT University
+  * [Arxiv2026] https://arxiv.org/abs/2605.09902
 * **When Background Matters: Breaking Medical Vision Language Models by Transferable Attack** |  #
   * Akash Ghosh, Subhadip Baidya, Sriparna Saha, Xiuying Chen
   * Indian Institute of Technology Patna, Indian Institute of Technology Kanpur, MBZUAI
@@ -533,6 +537,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Jianhao Chen, Haoyang Chen, Hanjie Zhao, Haozhe Liang, Tieyun Qian
   * Wuhan University, Tianjin University, University of the Chinese Academy of Sciences
   * [Arxiv2026] https://arxiv.org/abs/2604.12616
+* **Same Model, Different Weakness: How Language and Modality Reshape the Jailbreak Attack Surface in Frontier MLLMs** | #
+  * Casey Ford, Madison Van Doren, Sicheng Jin, Emily Dix
+  * Appen
+  * [Arxiv2026] https://arxiv.org/abs/2605.23157
+* **GPO-V: Jailbreak Diffusion Vision Language Model by Global Probability Optimization** | #
+  * Yu Pan, Andi Zhang, Yi Wang, Sibei Yang, Wenjie Wang
+  * ShanghaiTech University, University of Warwick, SUN YAT-SEN UNIVERSITY
+  * [Arxiv2026] https://arxiv.org/abs/2605.07399
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
@@ -615,6 +627,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Meiwen Ding, Song Xia, Chenqi Kong, Xudong Jiang
   * Nanyang Technological University
   * [Arxiv2026] https://arxiv.org/abs/2603.29418
+* **A Cross-Modal Prompt Injection Attack against Large Vision-Language Models with Image-Only Perturbation** |  #
+  * Hao Yang, Zhuo Ma, Yang Liu, Yilong Yang, Guancheng Wang, JianFeng Ma
+  * Xidian University
+  * [Arxiv2026] https://arxiv.org/abs/2605.16090
 
 ## Data-Poisoning
 * **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** | [Github](https://github.com/umd-huang-lab/VLM-Poisoning)
@@ -689,6 +705,18 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yue Li, Xin Yi, Dongsheng Shi, Yongyi Cui, Gerard de Melo, Linlin Wang
   * East China Normal University, University of Potsdam
   * [Arxiv2026] https://arxiv.org/abs/2602.09611
+* **Single-Sample Black-Box Membership Inference Attack against Vision-Language Models via Cross-modal Semantic Alignment** |  #
+  * Jiaqing Li, Yajuan Lu, Xiaochuan Shi, Gang Wu, ZhongYuan Wang, Chao Liang
+  * Wuhan University, Tarim University
+  * [Arxiv2026] https://arxiv.org/abs/2605.17341
+* **DistractMIA: Black-Box Membership Inference on Vision-Language Models via Semantic Distraction** |  #
+  * Hongyi Tang, Zhihao Zhu, Yi Yang
+  * The Hong Kong University of Science and Technology
+  * [Arxiv2026] https://arxiv.org/abs/2605.12574
+* **Cross-Modal Backdoors in Multimodal Large Language Models** |  #
+  * Runhe Wang, Li Bai, Haibo Hu, Songze Li
+  * Southeast University, The Hong Kong Polytechnic University
+  * [Arxiv2026] https://arxiv.org/abs/2605.07490
 
 ## Special-Attacks-For-LVLM-Applications
 * **Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models** | 
@@ -795,6 +823,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yifei Zhao, Qian Lou, Mengxin Zheng
   * University of Central Florida
   * [Arxiv2026] https://arxiv.org/abs/2604.17041
+* **Membership Inference Attacks on Vision-Language-Action Models** |  #
+  * Yuefeng Peng, Mingzhe Li, Kejing Xia, Renhao Zhang, Amir Houmansadr
+  * University of Massachusetts Amherst, Georgia Institute of Technology
+  * [Arxiv2026] https://arxiv.org/abs/2605.07088
 
 ## Benchmarks
 * **Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study** | [Github](https://github.com/oneonlee/Meme-Safety-Bench)   #
@@ -817,3 +849,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Youting Wang, Yuan Tang, Yitian Qian, Chen Zhao
   * Northeastern University, Carnegie Mellon University, Boston University, New York University
   * [Arxiv2026] https://arxiv.org/abs/2603.13385
+* **MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs** | [Github](https://github.com/chenyil6/MVI-Bench)  #
+  * Huiyi Chen, Jiawei Peng, Dehai Min, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, Lu Cheng
+  * UIUC, UIC, Southeast University
+  * [ICML2026] https://arxiv.org/abs/2511.14159
