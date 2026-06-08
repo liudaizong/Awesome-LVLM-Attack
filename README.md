@@ -275,6 +275,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Akash Ghosh, Subhadip Baidya, Sriparna Saha, Xiuying Chen
   * Indian Institute of Technology Patna, Indian Institute of Technology Kanpur, MBZUAI
   * [Arxiv2026] https://arxiv.org/abs/2604.17318
+* **Exploring Adversarial Robustness and Safety Alignment in Multilingual Multi-Modal Large Language Models** |  #
+  * Hashmat Shadab Malik, Muzammal Naseer, Salman Khan
+  * Mohamed Bin Zayed University of AI, Khalifa University, Australian National University
+  * [Arxiv2026] https://arxiv.org/abs/2606.03793
 * **Are Large Vision-Language Models Robust to Adversarial Visual Transformations?** |  #
   * Daizong Liu, Xiaowen Cai, Pan Zhou, Xiaoye Qu, Lichao Sun, Wei Hu
   * Wuhan University, Huazhong University of Science and Technology, Lehigh University, Peking University
@@ -545,6 +549,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yu Pan, Andi Zhang, Yi Wang, Sibei Yang, Wenjie Wang
   * ShanghaiTech University, University of Warwick, SUN YAT-SEN UNIVERSITY
   * [Arxiv2026] https://arxiv.org/abs/2605.07399
+* **Jailbreaking Multimodal Large Language Models using Multi-Clip Video** | #
+  * Choongwon Kang, Seungjong Sun, Hyunmin Jun, Jang Hyun Kim
+  *  Sungkyunkwan University
+  * [Arxiv2026] https://arxiv.org/abs/2606.02111
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
@@ -827,6 +835,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yuefeng Peng, Mingzhe Li, Kejing Xia, Renhao Zhang, Amir Houmansadr
   * University of Massachusetts Amherst, Georgia Institute of Technology
   * [Arxiv2026] https://arxiv.org/abs/2605.07088
+* **Partially Observable Adversarial Patch Attacks on Vision-Language-Action Models in Robotics** |  #
+  * Xiaofei Wang, Mingliang Han, Tianyu Hao, Yi Yang, Yun-Bo Zhao, Keke Tang
+  * University of Science and Technology of China, Guangzhou University
+  * [Arxiv2026] https://arxiv.org/abs/2606.03556
 
 ## Benchmarks
 * **Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study** | [Github](https://github.com/oneonlee/Meme-Safety-Bench)   #
