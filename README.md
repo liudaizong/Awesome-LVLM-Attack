@@ -861,6 +861,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Youting Wang, Yuan Tang, Yitian Qian, Chen Zhao
   * Northeastern University, Carnegie Mellon University, Boston University, New York University
   * [Arxiv2026] https://arxiv.org/abs/2603.13385
+* **PHANTOM: A Large-Scale Dataset of Multimodal Adversarial Attacks for Vision-Language Models** |  #
+  * Simone Gallivanone, Hossein Khodadadi, Mauro Dore, Mauro Medda, Nicola Franco
+  * The Italian Institute of Artificial Intelligence, HikmaAI S.r.l.
+  * [Arxiv2026] https://arxiv.org/abs/2606.24388
 * **MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs** | [Github](https://github.com/chenyil6/MVI-Bench)  #
   * Huiyi Chen, Jiawei Peng, Dehai Min, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, Lu Cheng
   * UIUC, UIC, Southeast University
