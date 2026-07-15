@@ -279,6 +279,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Hashmat Shadab Malik, Muzammal Naseer, Salman Khan
   * Mohamed Bin Zayed University of AI, Khalifa University, Australian National University
   * [Arxiv2026] https://arxiv.org/abs/2606.03793
+* **Vision Token Manipulation Attacks on Cloud-Edge Inference of Large Vision-Language Models** |  #
+  * Zikai Zhang, Rui Hu, Olivera Kotevska, Jiahao Xu
+  * University of Nevada, Oak Ridge National Laboratory
+  * [Arxiv2026] https://arxiv.org/abs/2607.02819
 * **Are Large Vision-Language Models Robust to Adversarial Visual Transformations?** |  #
   * Daizong Liu, Xiaowen Cai, Pan Zhou, Xiaoye Qu, Lichao Sun, Wei Hu
   * Wuhan University, Huazhong University of Science and Technology, Lehigh University, Peking University
@@ -551,8 +555,12 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * [Arxiv2026] https://arxiv.org/abs/2605.07399
 * **Jailbreaking Multimodal Large Language Models using Multi-Clip Video** | #
   * Choongwon Kang, Seungjong Sun, Hyunmin Jun, Jang Hyun Kim
-  *  Sungkyunkwan University
+  * Sungkyunkwan University
   * [Arxiv2026] https://arxiv.org/abs/2606.02111
+* **Overloading Large Vision-Language Models for Jailbreaking** | #
+  * Haoyu Zhang, Yangyang Guo, Mohan Kankanhalli
+  * National University of Singapore, Beihang University
+  * [Arxiv2026] https://arxiv.org/abs/2607.02961
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
