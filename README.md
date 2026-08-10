@@ -283,6 +283,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Zikai Zhang, Rui Hu, Olivera Kotevska, Jiahao Xu
   * University of Nevada, Oak Ridge National Laboratory
   * [Arxiv2026] https://arxiv.org/abs/2607.02819
+* **GeoThreat: Transferable Targeted Adversarial Attacks on Large Vision-Language Models for Remote Sensing Image Interpretation** |  #
+  * Yimin Fu, Yuefeng Bai, Baicheng Pan, Zhunga Liu, Michael K. Ng
+  * Hong Kong Baptist University, Northwestern Polytechnical University
+  * [Arxiv2026] https://arxiv.org/abs/2607.21036
 * **Are Large Vision-Language Models Robust to Adversarial Visual Transformations?** |  #
   * Daizong Liu, Xiaowen Cai, Pan Zhou, Xiaoye Qu, Lichao Sun, Wei Hu
   * Wuhan University, Huazhong University of Science and Technology, Lehigh University, Peking University
@@ -847,6 +851,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Xiaofei Wang, Mingliang Han, Tianyu Hao, Yi Yang, Yun-Bo Zhao, Keke Tang
   * University of Science and Technology of China, Guangzhou University
   * [Arxiv2026] https://arxiv.org/abs/2606.03556
+* **When Prompts Control Robots: Prompt Injection Attacks in Multi-Agent Robotic Systems** |  #
+  * Neha Nagaraja, Amisha Bagari, Hayretdin Bahsi
+  * Northern Arizona University, Tallinn University of Technology
+  * [Arxiv2026] https://arxiv.org/abs/2608.00747
 
 ## Benchmarks
 * **Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study** | [Github](https://github.com/oneonlee/Meme-Safety-Bench)   #
