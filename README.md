@@ -529,6 +529,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Devanshu Sahoo, Vasudev Majhi, Arjun Neekhra, Yash Sinha, Murari Mandal, Dhruv Kumar
   * BITS Pilani, KIIT University
   * [Arxiv2025] http://arxiv.org/abs/2512.10415
+* **Fully Unleashing the Multimodal Attacker: Meta-Adaptive Jailbreaking of Vision-Language Models** | #
+  * Benlei Cui, Shen Pang, Yuke Wang, Xuemei Dong, Yuwen Zhai, Jingqun Tang, Haiyang Yu, Hui Xue, Longtao Huang, Haiwen Hong
+  * Alibaba Group, Zhejiang Gongshang University
+  * [EMNLP2026] https://arxiv.org/abs/2608.27531
+* **Text-Anchored Semantic Perturbations for Transferable Jailbreak Attacks on Multimodal Large Language Models** | #
+  * Wenyun Li, Guiping Cao, Xiangyuan Lan, Zheng Zhang
+  * Harbin Institute of Technology, Pengcheng Laboratory, Pazhou Laboratory (Huangpu)
+  * [EMNLP2026] https://arxiv.org/abs/2608.22312
 * **Multi-turn Jailbreaking Attack in Multi-Modal Large Language Models** | #
   * Badhan Chandra Das, Md Tasnim Jawad, Joaquin Molto, M. Hadi Amini, Yanzhao Wu
   * Florida International University
@@ -565,6 +573,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Haoyu Zhang, Yangyang Guo, Mohan Kankanhalli
   * National University of Singapore, Beihang University
   * [Arxiv2026] https://arxiv.org/abs/2607.02961
+* **TempJail: Temporal Jailbreak Attack against Large Vision-Language Models via Subtitle Scheduling** | #
+  * Ling Zhou, Yihao Huang, Jingling Sun, Zhiwen Tian, Yi Zeng, Qihe Liu, Shijie Zhou
+  * University of Electronic Science and Technology of China, East China Normal University
+  * [Arxiv2026] https://arxiv.org/abs/2608.19737
 
 ## Prompt-Injection
 * **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs** | 
@@ -855,6 +867,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Neha Nagaraja, Amisha Bagari, Hayretdin Bahsi
   * Northern Arizona University, Tallinn University of Technology
   * [Arxiv2026] https://arxiv.org/abs/2608.00747
+* **UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models** |  #
+  * Yukun Dai, Mingzhe Dai, Tianshi Wang, Fengling Li, Jingjing Li, Lei Zhu
+  * Tongji University, Mohamed bin Zayed University of Artificial Intelligence, University of Electronic Science and Technology of China
+  * [Arxiv2026] https://arxiv.org/abs/2608.13453
 
 ## Benchmarks
 * **Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study** | [Github](https://github.com/oneonlee/Meme-Safety-Bench)   #
