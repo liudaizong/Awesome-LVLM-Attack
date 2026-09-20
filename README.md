@@ -311,6 +311,7 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Daizong Liu, Junhao Dong, Zhiyuan Ma, Xiaoye Qu, Xiang Fang, Runwei Guan, Keke Tang, Jianfeng Dong, Yew-Soon Ong
   * Wuhan University, Nanyang Technological University, Huazhong University of Science and Technology, The Hong Kong University of Science and Technology, Guangzhou University, Zhejiang Gongshang University
   * [TMM2026] https://arxiv.org/abs/2609.00788
+  
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
