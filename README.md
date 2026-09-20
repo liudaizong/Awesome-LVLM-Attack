@@ -307,6 +307,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Jingru Li, Wei Ren, Tianqing Zhu
   * China University of Geosciences, City University of Macau
   * [ACL2026] https://arxiv.org/abs/2604.10299
+* **Forbid Your Attention: Fooling Multimodal Large Language Models by Selectively Removing Intrinsic Focus in Spectral Domain** |  #
+  * Daizong Liu, Junhao Dong, Zhiyuan Ma, Xiaoye Qu, Xiang Fang, Runwei Guan, Keke Tang, Jianfeng Dong, Yew-Soon Ong
+  * Wuhan University, Nanyang Technological University, Huazhong University of Science and Technology, The Hong Kong University of Science and Technology, Guangzhou University, Zhejiang Gongshang University
+  * [TMM2026] https://arxiv.org/abs/2609.00788
 
 ## Jailbreak-Attack
 * **Are aligned neural networks adversarially aligned?** | 
@@ -537,6 +541,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Wenyun Li, Guiping Cao, Xiangyuan Lan, Zheng Zhang
   * Harbin Institute of Technology, Pengcheng Laboratory, Pazhou Laboratory (Huangpu)
   * [EMNLP2026] https://arxiv.org/abs/2608.22312
+* **DIVA: Exploiting Cross-Step Conditional Propagation for Visual Jailbreaks in Discrete Diffusion Vision-Language Models** | #
+  * Guorui Song, Runqing Tang, Jingye Zhang, Luyuan Zhang, Feice Huang, Cong Ray, Guocun Wang, Dake Zhong, Choo Sin Wai, Bingquan Dai, Chuming Wang, Tongxu Lin, Wanyu Guo, Haoqian Wang
+  * Tsinghua University, Beijing University of Posts and Telecommunications
+  * [EMNLP2026] https://arxiv.org/abs/2609.05525
 * **Multi-turn Jailbreaking Attack in Multi-Modal Large Language Models** | #
   * Badhan Chandra Das, Md Tasnim Jawad, Joaquin Molto, M. Hadi Amini, Yanzhao Wu
   * Florida International University
