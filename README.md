@@ -287,6 +287,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Yimin Fu, Yuefeng Bai, Baicheng Pan, Zhunga Liu, Michael K. Ng
   * Hong Kong Baptist University, Northwestern Polytechnical University
   * [Arxiv2026] https://arxiv.org/abs/2607.21036
+* **Feature-Aware Token Attack for Compression-Triggered Stealthy Failures in Large Vision-Language Models** |  #
+  * Shilinlu Yan, Bowen Chen, Yuechen Zhang, Zhenhong Zhou, Li Sun, Sen Su
+  * Beijing University of Posts and Telecommunications, Jiangnan University, Nanyang Technological University, Chongqing University of Posts and Telecommunications
+  * [Arxiv2026] https://arxiv.org/abs/2609.39134
+* **Still There, No Longer Seen: Exposing Compression-Induced Risk in Large Vision-Language Models** |  #
+  * Qiankun Li, Yuechen Zhang, Bowen Chen, Shilinlu Yan, Zhenhong Zhou, Kun Wang, Li Sun
+  * Nanyang Technological University, Beijing University of Posts and Telecommunications
+  * [Arxiv2026] https://arxiv.org/abs/2609.35002
 * **Are Large Vision-Language Models Robust to Adversarial Visual Transformations?** |  #
   * Daizong Liu, Xiaowen Cai, Pan Zhou, Xiaoye Qu, Lichao Sun, Wei Hu
   * Wuhan University, Huazhong University of Science and Technology, Lehigh University, Peking University
