@@ -319,6 +319,10 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Daizong Liu, Junhao Dong, Zhiyuan Ma, Xiaoye Qu, Xiang Fang, Runwei Guan, Keke Tang, Jianfeng Dong, Yew-Soon Ong
   * Wuhan University, Nanyang Technological University, Huazhong University of Science and Technology, The Hong Kong University of Science and Technology, Guangzhou University, Zhejiang Gongshang University
   * [TMM2026] https://arxiv.org/abs/2609.00788
+* **Flexible Targeted Adversarial Alignment with Frequency-based Visual Focus for Attacking Large Vision-Language Models** |  #
+  * Daizong Liu, Tianyao Luo, Junhao Dong, Xiaowen Cai, Hao He, Weidong Wang, Runwei Guan, Jianfeng Dong, Pan Zhou, Bo Du, Hui Xiong
+  * Wuhan University, Huazhong University of Science and Technology, Nanyang Technological University, The Hong Kong University of Science and Technology, Zhejiang Gongshang University
+  * [TPAMI2026] https://ieeexplore.ieee.org/abstract/document/11719481
   
 
 ## Jailbreak-Attack
@@ -766,6 +770,14 @@ Here, we've summarized existing LVLM Attack methods in our survey paper👍.
   * Runhe Wang, Li Bai, Haibo Hu, Songze Li
   * Southeast University, The Hong Kong Polytechnic University
   * [Arxiv2026] https://arxiv.org/abs/2605.07490
+* **COMPASS: Membership Inference Attack Against Vision Large Language Models via Adaptive Noise Calibration** |  #
+  * Damien Lo, Hong Kyu Lee, Ruixuan Liu, Li Xiong
+  * Emory University
+  * [Arxiv2026] https://arxiv.org/abs/2610.17332
+* **Detecting Chain-of-Thought Hijacking in Backdoored Multimodal Large Reasoning Models** |  #
+  * Zhifang Zhang, Qi Wei, Weitong Chen, Olaf Maennel, Wei Emma Zhang, Zuomin Ren, Lei Feng, Miao Xu
+  * The University of Queensland, Nanyang Technological University, Adelaide University, Tencent, Southeast University
+  * [Arxiv2026] https://arxiv.org/abs/2610.16598
 
 ## Special-Attacks-For-LVLM-Applications
 * **Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models** | 
